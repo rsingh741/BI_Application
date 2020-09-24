@@ -54,6 +54,6 @@ class Local(Config):
     DEBUG=True
     MYSQL_DB   = os.getenv('MYSQL_DEV_DB')
     MONGO_DB   = os.getenv('MONGO_DEV_DB')
-    SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://root:aroha@localhost:3306/dev_my360'
+    SQLALCHEMY_DATABASE_URI = '*************************************'
     SQLALCHEMY_TRACK_MODIFICATIONS = False    
     MONGO_URI = f"mongodb://{cg.MONGO_USER}:{cg.MONGO_PASSWORD}@{cg.MONGO_URL}:{cg.MONGO_PORT}/{MONGO_DB}?authSource={MONGO_DB}"
