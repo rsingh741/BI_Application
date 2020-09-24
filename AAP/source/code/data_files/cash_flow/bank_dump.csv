@@ -1,0 +1,2257 @@
+Date,account_entry,Particulars,Vch  Type,Vch  No.,Debit,Credit
+2017-04-01,Cr,Opening  Balance,,,1939156.42,0.0
+2017-04-01,Dr,Unsecured  Kotak  Loan,Payment,1.0,0.0,75613.0
+2017-04-01,Dr,Salary  Payable,Payment,2.0,0.0,1430389.0
+2017-04-03,Dr,Service  Tax  @14%  Payable,Payment,3.0,0.0,21666.0
+2017-04-03,Cr,Iquanti  India  Private  Limited,Receipt,1.0,4950.0,0.0
+2017-04-05,Cr,RPS  Consulting  Private  Limited,Receipt,2.0,105000.0,0.0
+2017-04-05,Dr,Advance  for  Interiors,Payment,4.0,0.0,125000.0
+2017-04-06,Dr,Travelling  Expenses,Payment,5.0,0.0,6512.0
+2017-04-06,Dr,Salary  Payable,Payment,6.0,0.0,10361.0
+2017-04-06,Dr,Telephone  and  Internet  Expenses,Payment,7.0,0.0,25000.0
+2017-04-06,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,3.0,40500.0,0.0
+2017-04-07,Cr,Monsanto  Holdings  Pvt  Ltd.,Receipt,4.0,165899.7,0.0
+2017-04-07,Cr,Collabera  Technologies  Private  Limited,Receipt,5.0,77557.0,0.0
+2017-04-07,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,6.0,56614.0,0.0
+2017-04-07,Dr,Travelling  Expenses,Payment,8.0,0.0,15000.0
+2017-04-07,Dr,Travelling  Expenses,Payment,9.0,0.0,5488.0
+2017-04-07,Dr,Employee  Contribution  to  ESI,Payment,10.0,0.0,40749.0
+2017-04-10,Dr,Credit  Card  Payout,Payment,11.0,0.0,25000.0
+2017-04-10,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,7.0,5490.0,0.0
+2017-04-11,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,8.0,38878.0,0.0
+2017-04-11,Dr,Employee  Contribution  to  Provident  Fund,Payment,12.0,0.0,221824.0
+2017-04-11,Dr,Global  Tax  Advisory  Services,Payment,13.0,0.0,65625.0
+2017-04-11,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,14.0,0.0,56422.0
+2017-04-11,Dr,Adamma  Technologies  Ltd,Payment,15.0,0.0,10868.0
+2017-04-11,Dr,Security  &  Housekeeping  Charges,Payment,16.0,0.0,9652.0
+2017-04-11,Dr,S.K.  Force,Payment,17.0,0.0,13620.0
+2017-04-13,Cr,Xerox  Business  Services  India  Private  Limited,Receipt,9.0,233841.0,0.0
+2017-04-15,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,10.0,44128.0,0.0
+2017-04-15,Cr,Monsanto  Holdings  Pvt  Ltd.,Receipt,11.0,64004.4,0.0
+2017-04-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,18.0,0.0,6778.0
+2017-04-18,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,12.0,1791729.0,0.0
+2017-04-20,Dr,Professional  Tax,Payment,19.0,0.0,68123.0
+2017-04-20,Dr,General  Drawings,Payment,20.0,0.0,80000.0
+2017-04-21,Dr,Telephone  and  Internet  Expenses,Payment,21.0,0.0,1087.0
+2017-04-23,Cr,D  Cube  Analytics  Private  Limited,Receipt,13.0,51750.0,0.0
+2017-04-24,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,14.0,79713.0,0.0
+2017-04-26,Cr,Centurylink  Technologies  India  Pvt  Ltd,Receipt,15.0,39223.0,0.0
+2017-04-26,Dr,Advance  for  Interiors,Payment,22.0,0.0,100000.0
+2017-04-26,Dr,Cash  on  Hand,Payment,23.0,0.0,15000.0
+2017-04-26,Dr,Apartment  EMI,Payment,24.0,0.0,40000.0
+2017-04-28,Cr,Xerox  Business  Services  India  Private  Limited,Receipt,16.0,116339.0,0.0
+2017-04-29,Cr,Anantha  Cybertech  Pvt  Ltd.,Receipt,17.0,74194.0,0.0
+2017-05-01,Dr,Unsecured  Kotak  Loan,Payment,25.0,0.0,75613.0
+2017-05-02,Dr,TDS  on  Salary  (192),Payment,26.0,0.0,47312.0
+2017-05-03,Dr,Office  Expenses,Payment,27.0,0.0,12000.0
+2017-05-03,Dr,Salary  Payable,Payment,28.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,29.0,0.0,129372.0
+2017-05-03,Dr,Salary  Payable,Payment,30.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,31.0,0.0,26200.0
+2017-05-03,Dr,Salary  Payable,Payment,32.0,0.0,22200.0
+2017-05-03,Dr,Salary  Payable,Payment,33.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,34.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,35.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,36.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,37.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,38.0,0.0,6037.0
+2017-05-03,Dr,Salary  Payable,Payment,39.0,0.0,7941.0
+2017-05-03,Dr,Salary  Payable,Payment,40.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,41.0,0.0,19468.0
+2017-05-03,Dr,Salary  Payable,Payment,42.0,0.0,19468.0
+2017-05-03,Dr,Salary  Payable,Payment,43.0,0.0,2050.0
+2017-05-03,Dr,Salary  Payable,Payment,44.0,0.0,46200.0
+2017-05-03,Dr,Salary  Payable,Payment,45.0,0.0,31200.0
+2017-05-03,Dr,Salary  Payable,Payment,46.0,0.0,26200.0
+2017-05-03,Dr,Salary  Payable,Payment,47.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,48.0,0.0,26200.0
+2017-05-03,Dr,Salary  Payable,Payment,49.0,0.0,93847.0
+2017-05-03,Dr,Salary  Payable,Payment,50.0,0.0,26200.0
+2017-05-03,Dr,Salary  Payable,Payment,51.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,52.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,53.0,0.0,12939.0
+2017-05-03,Dr,Salary  Payable,Payment,54.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,55.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,56.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,57.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,58.0,0.0,17852.0
+2017-05-03,Dr,Salary  Payable,Payment,59.0,0.0,3665.0
+2017-05-03,Dr,Salary  Payable,Payment,60.0,0.0,19468.0
+2017-05-03,Dr,Salary  Payable,Payment,61.0,0.0,29533.0
+2017-05-03,Dr,Salary  Payable,Payment,62.0,0.0,4656.0
+2017-05-03,Dr,Salary  Payable,Payment,63.0,0.0,26200.0
+2017-05-03,Dr,Salary  Payable,Payment,64.0,0.0,14464.0
+2017-05-03,Dr,Salary  Payable,Payment,65.0,0.0,21200.0
+2017-05-03,Dr,Salary  Payable,Payment,66.0,0.0,26200.0
+2017-05-03,Dr,Salary  Payable,Payment,67.0,0.0,26200.0
+2017-05-03,Dr,Salary  Payable,Payment,68.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,69.0,0.0,22200.0
+2017-05-03,Dr,Salary  Payable,Payment,70.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,71.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,72.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,73.0,0.0,2371.0
+2017-05-03,Dr,Salary  Payable,Payment,74.0,0.0,2371.0
+2017-05-03,Dr,Salary  Payable,Payment,75.0,0.0,19468.0
+2017-05-03,Dr,Salary  Payable,Payment,76.0,0.0,9375.0
+2017-05-03,Dr,Salary  Payable,Payment,77.0,0.0,16656.0
+2017-05-03,Dr,Salary  Payable,Payment,78.0,0.0,16656.0
+2017-05-03,Dr,Salary  Payable,Payment,79.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,80.0,0.0,31200.0
+2017-05-03,Dr,Salary  Payable,Payment,81.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,82.0,0.0,8438.0
+2017-05-03,Dr,Salary  Payable,Payment,83.0,0.0,16656.0
+2017-05-03,Dr,Salary  Payable,Payment,84.0,0.0,16656.0
+2017-05-03,Dr,Salary  Payable,Payment,85.0,0.0,8397.0
+2017-05-03,Dr,Salary  Payable,Payment,86.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,87.0,0.0,19468.0
+2017-05-03,Dr,Salary  Payable,Payment,88.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,89.0,0.0,33654.0
+2017-05-03,Dr,Salary  Payable,Payment,90.0,0.0,27033.0
+2017-05-03,Dr,Salary  Payable,Payment,91.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,92.0,0.0,10995.0
+2017-05-03,Dr,Salary  Payable,Payment,93.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,94.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,95.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,96.0,0.0,16656.0
+2017-05-03,Dr,Salary  Payable,Payment,97.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,98.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,99.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,100.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,101.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,102.0,0.0,7150.0
+2017-05-03,Dr,Salary  Payable,Payment,103.0,0.0,5821.0
+2017-05-03,Dr,Salary  Payable,Payment,104.0,0.0,13812.0
+2017-05-03,Dr,Salary  Payable,Payment,105.0,0.0,10005.0
+2017-05-03,Dr,Salary  Payable,Payment,106.0,0.0,2371.0
+2017-05-03,Dr,Salary  Payable,Payment,107.0,0.0,3018.0
+2017-05-03,Dr,Salary  Payable,Payment,108.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,109.0,0.0,6468.0
+2017-05-03,Dr,Salary  Payable,Payment,110.0,0.0,6468.0
+2017-05-05,Cr,Collabera  Technologies  Private  Limited,Receipt,18.0,158215.0,0.0
+2017-05-05,Dr,Samruddhi  Facility  Management  &  Services,Payment,111.0,0.0,11138.0
+2017-05-05,Dr,S.K.  Force,Payment,112.0,0.0,13800.0
+2017-05-08,Dr,Apartment  EMI,Payment,113.0,0.0,35000.0
+2017-05-08,Dr,General  Drawings,Payment,114.0,0.0,20000.0
+2017-05-09,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,19.0,5670.0,0.0
+2017-05-09,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,20.0,22500.0,0.0
+2017-05-12,Cr,Data  Semantics  Private  Limited,Receipt,21.0,200000.0,0.0
+2017-05-12,Cr,D  Cube  Analytics  Private  Limited,Receipt,22.0,51750.0,0.0
+2017-05-12,Dr,Employee  Contribution  to  Provident  Fund,Payment,115.0,0.0,221077.0
+2017-05-15,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,23.0,129363.0,0.0
+2017-05-15,Cr,Continuserve  Softech  India  Pvt  Ltd,Receipt,24.0,49500.0,0.0
+2017-05-15,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,25.0,865337.0,0.0
+2017-05-15,Dr,TDS  on  Salary  (192),Payment,116.0,0.0,46371.0
+2017-05-15,Dr,Credit  Card  Payout,Payment,117.0,0.0,45000.0
+2017-05-16,Dr,General  Drawings,Payment,118.0,0.0,30000.0
+2017-05-16,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,119.0,0.0,56422.0
+2017-05-16,Dr,Employee  Contribution  to  ESI,Payment,120.0,0.0,34752.0
+2017-05-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,121.0,0.0,6216.0
+2017-05-18,Cr,Xerox  Business  Services  India  Private  Limited,Receipt,26.0,112499.0,0.0
+2017-05-18,Dr,Office  Expenses,Payment,122.0,0.0,25000.0
+2017-05-19,Dr,Intsol  Consultants  Private  Limited_x000D,Payment,123.0,0.0,67275.0
+2017-05-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,124.0,0.0,398.0
+2017-05-20,Dr,Credit  Card  Payout,Payment,125.0,0.0,35000.0
+2017-05-22,Cr,Covalense  Technologies,Receipt,27.0,199500.0,0.0
+2017-05-22,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,28.0,35869.0,0.0
+2017-05-22,Dr,Office  Expenses,Payment,126.0,0.0,15000.0
+2017-05-22,Dr,Telephone  and  Internet  Expenses,Payment,127.0,0.0,1087.0
+2017-05-23,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,29.0,79385.0,0.0
+2017-05-24,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,30.0,84000.0,0.0
+2017-05-25,Cr,General  Drawings,Receipt,31.0,65000.0,0.0
+2017-05-25,Dr,General  Drawings,Payment,128.0,0.0,30000.0
+2017-05-25,Dr,Credit  Card  Payout,Payment,129.0,0.0,35000.0
+2017-05-25,Dr,General  Drawings,Payment,130.0,0.0,65000.0
+2017-05-29,Cr,General  Drawings,Receipt,32.0,65000.0,0.0
+2017-05-29,Dr,Apartment  EMI,Payment,131.0,0.0,60000.0
+2017-05-29,Dr,General  Drawings,Payment,132.0,0.0,65000.0
+2017-05-30,Dr,General  Drawings,Payment,133.0,0.0,40000.0
+2017-05-31,Dr,General  Drawings,Payment,134.0,0.0,40000.0
+2017-05-31,Dr,Subscription  Charges,Payment,135.0,0.0,250.0
+2017-06-01,Cr,RPS  Consulting  Private  Limited,Receipt,33.0,9702.0,0.0
+2017-06-01,Dr,Unsecured  Kotak  Loan,Payment,136.0,0.0,75613.0
+2017-06-01,Dr,General  Drawings,Payment,137.0,0.0,40000.0
+2017-06-01,Dr,General  Drawings,Payment,138.0,0.0,40000.0
+2017-06-02,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,34.0,210648.0,0.0
+2017-06-03,Dr,Travelling  Expenses,Payment,139.0,0.0,170000.0
+2017-06-03,Dr,Salary  Payable,Payment,140.0,0.0,1568909.84
+2017-06-03,Dr,Apartment  EMI,Payment,141.0,0.0,30000.0
+2017-06-05,Dr,Travelling  Expenses,Payment,142.0,0.0,15000.0
+2017-06-05,Cr,AXA  Business  Services  Pvt  Ltd_x000D_ 
+,Receipt,35.0,97917.0,0.0
+2017-06-07,Dr,General  Drawings,Payment,143.0,0.0,30000.0
+2017-06-07,Dr,Samruddhi  Facility  Management  &  Services,Payment,144.0,0.0,11138.0
+2017-06-07,Dr,S.K.  Force,Payment,145.0,0.0,13800.0
+2017-06-07,Dr,Professional  Tax,Payment,146.0,0.0,44966.0
+2017-06-07,Dr,Travelling  Expenses,Payment,147.0,0.0,20866.0
+2017-06-09,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  Icreate)_x000D,Receipt,36.0,775125.0,0.0
+2017-06-09,Cr,Collabera  Technologies  Private  Limited,Receipt,37.0,316431.0,0.0
+2017-06-09,Dr,L  Guru  Prasad,Payment,148.0,0.0,64350.0
+2017-06-09,Dr,Shravan  M,Payment,149.0,0.0,71725.0
+2017-06-09,Dr,Apartment  EMI,Payment,150.0,0.0,30000.0
+2017-06-13,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,38.0,40500.0,0.0
+2017-06-14,Dr,Credit  Card  Payout,Payment,151.0,0.0,45000.0
+2017-06-14,Dr,First  Advantage,Payment,152.0,0.0,12380.0
+2017-06-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,153.0,0.0,231050.0
+2017-06-15,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,39.0,40266.0,0.0
+2017-06-15,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,40.0,34800.0,0.0
+2017-06-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,154.0,0.0,7377.0
+2017-06-19,Cr,BOSE  Software  Services  Private  Limited,Receipt,41.0,187500.0,0.0
+2017-06-20,Dr,General  Drawings,Payment,155.0,0.0,45000.0
+2017-06-20,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,156.0,0.0,59244.0
+2017-06-20,Dr,Employee  Contribution  to  ESI,Payment,157.0,0.0,40005.0
+2017-06-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,158.0,0.0,1115.0
+2017-06-21,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,42.0,42000.0,0.0
+2017-06-25,Dr,Telephone  and  Internet  Expenses,Payment,159.0,0.0,1087.0
+2017-06-30,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,43.0,140417.0,0.0
+2017-06-30,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,44.0,150429.0,0.0
+2017-06-30,Cr,IMS  Health,Receipt,45.0,117000.0,0.0
+2017-06-30,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,46.0,42000.0,0.0
+2017-07-01,Dr,Unsecured  Kotak  Loan,Payment,160.0,0.0,75613.0
+2017-07-03,Dr,Apartment  EMI,Payment,161.0,0.0,25000.0
+2017-07-03,Dr,Computers,Payment,162.0,0.0,45000.0
+2017-07-03,Dr,Office  Expenses,Payment,163.0,0.0,20000.0
+2017-07-03,Dr,Info  Edge  (India)  Ltd,Payment,164.0,0.0,24937.0
+2017-07-03,Dr,Salary  Payable,Payment,165.0,0.0,4553.0
+2017-07-03,Dr,Salary  Payable,Payment,166.0,0.0,2529.0
+2017-07-03,Dr,Salary  Payable,Payment,167.0,0.0,35200.0
+2017-07-03,Dr,Salary  Payable,Payment,168.0,0.0,16656.0
+2017-07-03,Dr,Salary  Payable,Payment,169.0,0.0,21200.0
+2017-07-03,Dr,Salary  Payable,Payment,170.0,0.0,29700.0
+2017-07-03,Dr,Salary  Payable,Payment,171.0,0.0,19094.0
+2017-07-03,Dr,Salary  Payable,Payment,172.0,0.0,31200.0
+2017-07-03,Dr,Salary  Payable,Payment,173.0,0.0,76294.0
+2017-07-03,Dr,Salary  Payable,Payment,174.0,0.0,93847.0
+2017-07-03,Dr,Salary  Payable,Payment,175.0,0.0,129372.0
+2017-07-03,Dr,Salary  Payable,Payment,176.0,0.0,21200.0
+2017-07-03,Dr,Salary  Payable,Payment,177.0,0.0,21200.0
+2017-07-03,Dr,Salary  Payable,Payment,178.0,0.0,19468.0
+2017-07-03,Dr,Salary  Payable,Payment,179.0,0.0,19468.0
+2017-07-03,Dr,Salary  Payable,Payment,180.0,0.0,16656.0
+2017-07-03,Dr,Salary  Payable,Payment,181.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,182.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,183.0,0.0,2276.0
+2017-07-03,Dr,Salary  Payable,Payment,184.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,185.0,0.0,18282.0
+2017-07-03,Dr,Salary  Payable,Payment,186.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,187.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,188.0,0.0,7731.0
+2017-07-03,Dr,Salary  Payable,Payment,189.0,0.0,33223.0
+2017-07-03,Dr,Salary  Payable,Payment,190.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,191.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,192.0,0.0,22200.0
+2017-07-03,Dr,Salary  Payable,Payment,193.0,0.0,21200.0
+2017-07-03,Dr,Salary  Payable,Payment,194.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,195.0,0.0,19468.0
+2017-07-03,Dr,Salary  Payable,Payment,196.0,0.0,10807.0
+2017-07-03,Dr,Salary  Payable,Payment,197.0,0.0,16656.0
+2017-07-03,Dr,Salary  Payable,Payment,198.0,0.0,18351.0
+2017-07-03,Dr,Salary  Payable,Payment,199.0,0.0,1265.0
+2017-07-03,Dr,Salary  Payable,Payment,200.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,201.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,202.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,203.0,0.0,26200.0
+2017-07-03,Dr,Salary  Payable,Payment,204.0,0.0,31200.0
+2017-07-03,Dr,Salary  Payable,Payment,205.0,0.0,21200.0
+2017-07-03,Dr,Salary  Payable,Payment,206.0,0.0,20794.0
+2017-07-03,Dr,Salary  Payable,Payment,207.0,0.0,21200.0
+2017-07-03,Dr,Salary  Payable,Payment,208.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,209.0,0.0,61909.0
+2017-07-03,Dr,Salary  Payable,Payment,210.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,211.0,0.0,21200.0
+2017-07-03,Dr,Salary  Payable,Payment,212.0,0.0,19468.0
+2017-07-03,Dr,Salary  Payable,Payment,213.0,0.0,19468.0
+2017-07-03,Dr,Salary  Payable,Payment,214.0,0.0,36200.0
+2017-07-03,Dr,Salary  Payable,Payment,215.0,0.0,9373.0
+2017-07-03,Dr,Salary  Payable,Payment,216.0,0.0,27033.0
+2017-07-03,Dr,Salary  Payable,Payment,217.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,218.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,219.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,220.0,0.0,3795.0
+2017-07-03,Dr,Salary  Payable,Payment,221.0,0.0,5060.0
+2017-07-03,Dr,Salary  Payable,Payment,222.0,0.0,10158.0
+2017-07-03,Dr,Salary  Payable,Payment,223.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,224.0,0.0,22200.0
+2017-07-03,Dr,Salary  Payable,Payment,225.0,0.0,31097.0
+2017-07-03,Dr,Salary  Payable,Payment,226.0,0.0,29533.0
+2017-07-03,Dr,Salary  Payable,Payment,227.0,0.0,16656.0
+2017-07-03,Dr,Salary  Payable,Payment,228.0,0.0,26200.0
+2017-07-03,Dr,Salary  Payable,Payment,229.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,230.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,231.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,232.0,0.0,13474.0
+2017-07-03,Dr,Salary  Payable,Payment,233.0,0.0,7590.0
+2017-07-03,Dr,Salary  Payable,Payment,234.0,0.0,6324.0
+2017-07-03,Dr,Salary  Payable,Payment,235.0,0.0,10158.0
+2017-07-03,Dr,Salary  Payable,Payment,236.0,0.0,6679.0
+2017-07-03,Dr,Salary  Payable,Payment,237.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,238.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,239.0,0.0,18282.0
+2017-07-03,Dr,Salary  Payable,Payment,240.0,0.0,24859.0
+2017-07-03,Dr,Salary  Payable,Payment,241.0,0.0,18282.0
+2017-07-03,Dr,Salary  Payable,Payment,242.0,0.0,20794.0
+2017-07-03,Dr,Salary  Payable,Payment,243.0,0.0,13812.0
+2017-07-03,Dr,Salary  Payable,Payment,244.0,0.0,13812.0
+2017-07-05,Cr,D  Cube  Analytics  Private  Limited,Receipt,47.0,51750.0,0.0
+2017-07-06,Dr,March31st  Consulting  LLP,Payment,245.0,0.0,63000.0
+2017-07-06,Dr,TDS  on  Salary  (192),Payment,246.0,0.0,95755.0
+2017-07-06,Dr,General  Drawings,Payment,247.0,0.0,50000.0
+2017-07-06,Dr,Salary  Payable,Payment,248.0,0.0,26200.0
+2017-07-06,Dr,Salary  Payable,Payment,249.0,0.0,9820.0
+2017-07-06,Dr,Salary  Payable,Payment,250.0,0.0,25290.0
+2017-07-07,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,48.0,39825.0,0.0
+2017-07-07,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,49.0,77225.0,0.0
+2017-07-07,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,50.0,54350.0,0.0
+2017-07-10,Dr,Employers  Contribution  to  ESI  (Including  Admin),Payment,251.0,0.0,41983.0
+2017-07-10,Dr,Employee  Contribution  to  Provident  Fund,Payment,252.0,0.0,235036.0
+2017-07-11,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,51.0,43043.0,0.0
+2017-07-14,Dr,Apartment  EMI,Payment,253.0,0.0,3000.0
+2017-07-14,Dr,Samruddhi  Facility  Management  &  Services,Payment,254.0,0.0,10395.0
+2017-07-15,Dr,Telephone  and  Internet  Expenses,Payment,255.0,0.0,2457.0
+2017-07-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,256.0,0.0,3960.0
+2017-07-17,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  Icreate)_x000D,Receipt,52.0,907667.0,0.0
+2017-07-17,Dr,S  S  Interiors,Payment,257.0,0.0,120529.0
+2017-07-17,Dr,Apartment  EMI,Payment,258.0,0.0,27000.0
+2017-07-19,Dr,Telephone  and  Internet  Expenses,Payment,259.0,0.0,366.0
+2017-07-19,Dr,Telephone  and  Internet  Expenses,Payment,260.0,0.0,905.0
+2017-07-20,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,53.0,58500.0,0.0
+2017-07-21,Cr,Collabera  Technologies  Private  Limited,Receipt,54.0,55841.0,0.0
+2017-07-21,Dr,S.K.  Force,Payment,261.0,0.0,13800.0
+2017-07-24,Dr,Salary  Payable,Payment,262.0,0.0,16125.0
+2017-07-27,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,55.0,87000.0,0.0
+2017-07-28,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,56.0,7650.0,0.0
+2017-07-31,Cr,Data  Semantics  Private  Limited,Receipt,57.0,200000.0,0.0
+2017-07-31,Dr,Interest  on  Overdraft,Payment,263.0,0.0,2587.0
+2017-07-31,Dr,Credit  Card  Payout,Payment,264.0,0.0,55000.0
+2017-07-31,Dr,General  Drawings,Payment,265.0,0.0,125000.0
+2017-08-01,Dr,Unsecured  Kotak  Loan,Payment,266.0,0.0,75613.0
+2017-08-03,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,58.0,153210.0,0.0
+2017-08-03,Dr,Salary  Payable,Payment,267.0,0.0,16398.0
+2017-08-03,Dr,Salary  Payable,Payment,268.0,0.0,31097.0
+2017-08-03,Dr,Salary  Payable,Payment,269.0,0.0,93847.0
+2017-08-03,Dr,Salary  Payable,Payment,270.0,0.0,26200.0
+2017-08-03,Dr,Salary  Payable,Payment,271.0,0.0,21200.0
+2017-08-03,Dr,Salary  Payable,Payment,272.0,0.0,21200.0
+2017-08-03,Dr,Salary  Payable,Payment,273.0,0.0,26200.0
+2017-08-03,Dr,Salary  Payable,Payment,274.0,0.0,19468.0
+2017-08-03,Dr,Salary  Payable,Payment,275.0,0.0,13429.0
+2017-08-03,Dr,Salary  Payable,Payment,276.0,0.0,26200.0
+2017-08-03,Dr,Salary  Payable,Payment,277.0,0.0,26200.0
+2017-08-03,Dr,Salary  Payable,Payment,278.0,0.0,16656.0
+2017-08-03,Dr,Salary  Payable,Payment,279.0,0.0,21200.0
+2017-08-03,Dr,Salary  Payable,Payment,280.0,0.0,36200.0
+2017-08-03,Dr,Salary  Payable,Payment,281.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,282.0,0.0,19468.0
+2017-08-03,Dr,Salary  Payable,Payment,283.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,284.0,0.0,19468.0
+2017-08-03,Dr,Salary  Payable,Payment,285.0,0.0,8713.0
+2017-08-03,Dr,Salary  Payable,Payment,286.0,0.0,16656.0
+2017-08-03,Dr,Salary  Payable,Payment,287.0,0.0,19468.0
+2017-08-03,Dr,Salary  Payable,Payment,288.0,0.0,19468.0
+2017-08-03,Dr,Salary  Payable,Payment,289.0,0.0,20794.0
+2017-08-03,Dr,Salary  Payable,Payment,290.0,0.0,20794.0
+2017-08-03,Dr,Salary  Payable,Payment,291.0,0.0,18282.0
+2017-08-03,Dr,Salary  Payable,Payment,292.0,0.0,37200.0
+2017-08-03,Dr,Salary  Payable,Payment,293.0,0.0,22200.0
+2017-08-03,Dr,Salary  Payable,Payment,294.0,0.0,29533.0
+2017-08-03,Dr,Salary  Payable,Payment,295.0,0.0,17824.0
+2017-08-03,Dr,Salary  Payable,Payment,296.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,297.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,298.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,299.0,0.0,5971.0
+2017-08-03,Dr,Salary  Payable,Payment,300.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,301.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,302.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,303.0,0.0,19094.0
+2017-08-03,Dr,Salary  Payable,Payment,304.0,0.0,12359.0
+2017-08-03,Dr,Salary  Payable,Payment,305.0,0.0,2276.0
+2017-08-03,Dr,Salary  Payable,Payment,306.0,0.0,22200.0
+2017-08-03,Dr,Salary  Payable,Payment,307.0,0.0,3672.0
+2017-08-03,Dr,Salary  Payable,Payment,308.0,0.0,3672.0
+2017-08-03,Dr,Salary  Payable,Payment,309.0,0.0,22200.0
+2017-08-03,Dr,Salary  Payable,Payment,310.0,0.0,16656.0
+2017-08-03,Dr,Salary  Payable,Payment,311.0,0.0,26200.0
+2017-08-03,Dr,Salary  Payable,Payment,312.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,313.0,0.0,20794.0
+2017-08-03,Dr,Salary  Payable,Payment,314.0,0.0,3427.0
+2017-08-03,Dr,Salary  Payable,Payment,315.0,0.0,4652.0
+2017-08-03,Dr,Salary  Payable,Payment,316.0,0.0,20794.0
+2017-08-03,Dr,Salary  Payable,Payment,317.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,318.0,0.0,22200.0
+2017-08-03,Dr,Salary  Payable,Payment,319.0,0.0,31200.0
+2017-08-03,Dr,Salary  Payable,Payment,320.0,0.0,9740.0
+2017-08-03,Dr,Salary  Payable,Payment,321.0,0.0,3672.0
+2017-08-03,Dr,Salary  Payable,Payment,322.0,0.0,3672.0
+2017-08-03,Dr,Salary  Payable,Payment,323.0,0.0,6854.0
+2017-08-03,Dr,Salary  Payable,Payment,324.0,0.0,3672.0
+2017-08-03,Dr,Salary  Payable,Payment,325.0,0.0,7099.0
+2017-08-03,Dr,Salary  Payable,Payment,326.0,0.0,61909.0
+2017-08-03,Dr,Salary  Payable,Payment,327.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,328.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,329.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,330.0,0.0,11273.0
+2017-08-03,Dr,Salary  Payable,Payment,331.0,0.0,3427.0
+2017-08-03,Dr,Salary  Payable,Payment,332.0,0.0,33223.0
+2017-08-03,Dr,Salary  Payable,Payment,333.0,0.0,7099.0
+2017-08-03,Dr,Salary  Payable,Payment,334.0,0.0,13642.0
+2017-08-03,Dr,Salary  Payable,Payment,335.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,336.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,337.0,0.0,13812.0
+2017-08-03,Dr,Salary  Payable,Payment,338.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,339.0,0.0,13927.0
+2017-08-03,Dr,Salary  Payable,Payment,340.0,0.0,11973.0
+2017-08-03,Dr,Salary  Payable,Payment,341.0,0.0,7590.0
+2017-08-03,Dr,Salary  Payable,Payment,342.0,0.0,16656.0
+2017-08-03,Dr,Salary  Payable,Payment,343.0,0.0,27033.0
+2017-08-03,Dr,Salary  Payable,Payment,344.0,0.0,8352.0
+2017-08-03,Dr,Salary  Payable,Payment,345.0,0.0,10678.0
+2017-08-03,Dr,Salary  Payable,Payment,346.0,0.0,21200.0
+2017-08-03,Dr,Salary  Payable,Payment,347.0,0.0,13642.0
+2017-08-03,Dr,Salary  Payable,Payment,348.0,0.0,13812.0
+2017-08-04,Cr,Collabera  Technologies  Private  Limited,Receipt,59.0,197113.0,0.0
+2017-08-04,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,60.0,49986.0,0.0
+2017-08-07,Dr,General  Drawings,Payment,349.0,0.0,80000.0
+2017-08-07,Dr,Salary  Payable,Payment,350.0,0.0,76294.0
+2017-08-07,Dr,Salary  Payable,Payment,351.0,0.0,31200.0
+2017-08-07,Dr,Salary  Payable,Payment,352.0,0.0,22200.0
+2017-08-07,Dr,Salary  Payable,Payment,353.0,0.0,124592.0
+2017-08-07,Dr,Salary  Payable,Payment,354.0,0.0,31200.0
+2017-08-10,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,61.0,48600.0,0.0
+2017-08-10,Dr,Salary  Payable,Payment,355.0,0.0,7280.0
+2017-08-14,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,62.0,1721130.0,0.0
+2017-08-14,Dr,Travelling  Expenses,Payment,356.0,0.0,65595.7
+2017-08-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,357.0,0.0,242232.0
+2017-08-14,Dr,Samruddhi  Facility  Management  &  Services,Payment,358.0,0.0,10395.0
+2017-08-14,Dr,Apartment  EMI,Payment,359.0,0.0,40000.0
+2017-08-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,360.0,0.0,7992.0
+2017-08-17,Dr,Credit  Card  Payout,Payment,361.0,0.0,30000.0
+2017-08-17,Dr,Utkrusht  Software  Technologies  Pvt  Ltd,Payment,362.0,0.0,23265.0
+2017-08-17,Dr,Samruddhi  Facility  Management  &  Services,Payment,363.0,0.0,5423.0
+2017-08-17,Dr,S.K.  Force,Payment,364.0,0.0,11880.0
+2017-08-17,Dr,S  S  Interiors,Payment,365.0,0.0,50000.0
+2017-08-17,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,366.0,0.0,59243.0
+2017-08-17,Dr,Employee  Contribution  to  ESI,Payment,367.0,0.0,45283.0
+2017-08-18,Cr,BOSE  Software  Services  Private  Limited,Receipt,63.0,155806.0,0.0
+2017-08-18,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,64.0,1386513.0,0.0
+2017-08-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,368.0,0.0,965.0
+2017-08-21,Dr,TDS  on  Salary  (192),Payment,369.0,0.0,65786.68
+2017-08-21,Dr,March31st  Consulting  LLP,Payment,370.0,0.0,31500.0
+2017-08-21,Dr,Office  Expenses,Payment,371.0,0.0,20000.0
+2017-08-22,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,65.0,43200.0,0.0
+2017-08-23,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,66.0,85320.0,0.0
+2017-08-24,Dr,Telephone  and  Internet  Expenses,Payment,372.0,0.0,1301.0
+2017-08-28,Dr,Credit  Card  Payout,Payment,373.0,0.0,45000.0
+2017-08-29,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,67.0,459333.9,0.0
+2017-08-29,Dr,Service  Tax  @14%  Payable,Payment,374.0,0.0,213657.0
+2017-08-30,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,68.0,281241.0,0.0
+2017-08-30,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,375.0,0.0,59243.0
+2017-08-31,Dr,Interest  on  Overdraft,Payment,376.0,0.0,4467.0
+2017-09-01,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,69.0,56438.0,0.0
+2017-09-01,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,70.0,26652.0,0.0
+2017-09-01,Dr,Unsecured  Kotak  Loan,Payment,377.0,0.0,75613.0
+2017-09-01,Dr,Credit  Card  Payout,Payment,378.0,0.0,45000.0
+2017-09-02,Dr,Salary  Payable,Payment,533.0,0.0,20794.0
+2017-09-02,Dr,Salary  Payable,Payment,534.0,0.0,124583.0
+2017-09-02,Dr,Salary  Payable,Payment,535.0,0.0,13812.0
+2017-09-02,Dr,Salary  Payable,Payment,536.0,0.0,13812.0
+2017-09-02,Dr,Salary  Payable,Payment,537.0,0.0,19468.0
+2017-09-02,Dr,Salary  Payable,Payment,538.0,0.0,39117.0
+2017-09-02,Dr,Salary  Payable,Payment,539.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,540.0,0.0,20794.0
+2017-09-02,Dr,Salary  Payable,Payment,541.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,542.0,0.0,13860.0
+2017-09-02,Dr,Salary  Payable,Payment,543.0,0.0,31200.0
+2017-09-02,Dr,Salary  Payable,Payment,544.0,0.0,22200.0
+2017-09-02,Dr,Salary  Payable,Payment,545.0,0.0,16656.0
+2017-09-02,Dr,Salary  Payable,Payment,546.0,0.0,33736.0
+2017-09-02,Dr,Salary  Payable,Payment,547.0,0.0,28200.0
+2017-09-02,Dr,Salary  Payable,Payment,548.0,0.0,26200.0
+2017-09-02,Dr,Salary  Payable,Payment,549.0,0.0,76289.0
+2017-09-02,Dr,Salary  Payable,Payment,550.0,0.0,31200.0
+2017-09-02,Dr,Salary  Payable,Payment,551.0,0.0,8713.0
+2017-09-02,Dr,Salary  Payable,Payment,552.0,0.0,13532.0
+2017-09-02,Dr,Salary  Payable,Payment,553.0,0.0,13812.0
+2017-09-02,Dr,Salary  Payable,Payment,554.0,0.0,16656.0
+2017-09-02,Dr,Salary  Payable,Payment,555.0,0.0,20794.0
+2017-09-02,Dr,Salary  Payable,Payment,556.0,0.0,8713.0
+2017-09-02,Dr,Salary  Payable,Payment,557.0,0.0,19468.0
+2017-09-02,Dr,Salary  Payable,Payment,558.0,0.0,36117.0
+2017-09-02,Dr,Salary  Payable,Payment,559.0,0.0,22200.0
+2017-09-02,Dr,Salary  Payable,Payment,560.0,0.0,21200.0
+2017-09-02,Dr,Salary  Payable,Payment,561.0,0.0,34200.0
+2017-09-02,Dr,Salary  Payable,Payment,562.0,0.0,31096.0
+2017-09-02,Dr,Salary  Payable,Payment,563.0,0.0,104205.0
+2017-09-02,Dr,Salary  Payable,Payment,564.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,565.0,0.0,7589.0
+2017-09-02,Dr,Salary  Payable,Payment,566.0,0.0,15963.0
+2017-09-02,Dr,Salary  Payable,Payment,567.0,0.0,26200.0
+2017-09-02,Dr,Salary  Payable,Payment,568.0,0.0,19468.0
+2017-09-02,Dr,Salary  Payable,Payment,569.0,0.0,8713.0
+2017-09-02,Dr,Salary  Payable,Payment,570.0,0.0,20794.0
+2017-09-02,Dr,Salary  Payable,Payment,571.0,0.0,25379.0
+2017-09-02,Dr,Salary  Payable,Payment,572.0,0.0,13812.0
+2017-09-02,Dr,Salary  Payable,Payment,573.0,0.0,29472.0
+2017-09-02,Dr,Salary  Payable,Payment,574.0,0.0,25379.0
+2017-09-02,Dr,Salary  Payable,Payment,575.0,0.0,25952.0
+2017-09-02,Dr,Salary  Payable,Payment,576.0,0.0,21419.0
+2017-09-02,Dr,Salary  Payable,Payment,577.0,0.0,25379.0
+2017-09-02,Dr,Salary  Payable,Payment,578.0,0.0,18282.0
+2017-09-02,Dr,Salary  Payable,Payment,579.0,0.0,37200.0
+2017-09-02,Dr,Salary  Payable,Payment,580.0,0.0,25846.0
+2017-09-02,Dr,Salary  Payable,Payment,581.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,582.0,0.0,22200.0
+2017-09-02,Dr,Salary  Payable,Payment,583.0,0.0,16656.0
+2017-09-02,Dr,Salary  Payable,Payment,584.0,0.0,13860.0
+2017-09-02,Dr,Salary  Payable,Payment,585.0,0.0,13860.0
+2017-09-02,Dr,Salary  Payable,Payment,586.0,0.0,6854.0
+2017-09-02,Dr,Salary  Payable,Payment,587.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,588.0,0.0,6171.0
+2017-09-02,Dr,Salary  Payable,Payment,589.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,590.0,0.0,10929.0
+2017-09-02,Dr,Salary  Payable,Payment,591.0,0.0,59759.0
+2017-09-02,Dr,Salary  Payable,Payment,592.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,593.0,0.0,10678.0
+2017-09-02,Dr,Salary  Payable,Payment,594.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,595.0,0.0,13812.0
+2017-09-02,Dr,Salary  Payable,Payment,596.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,597.0,0.0,13860.0
+2017-09-02,Dr,Salary  Payable,Payment,598.0,0.0,27033.0
+2017-09-02,Dr,Salary  Payable,Payment,599.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,600.0,0.0,16656.0
+2017-09-02,Dr,Salary  Payable,Payment,601.0,0.0,13860.0
+2017-09-02,Dr,Salary  Payable,Payment,602.0,0.0,13860.0
+2017-09-02,Dr,Salary  Payable,Payment,603.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,604.0,0.0,13860.0
+2017-09-02,Dr,Salary  Payable,Payment,605.0,0.0,33222.0
+2017-09-02,Dr,Salary  Payable,Payment,606.0,0.0,21200.0
+2017-09-02,Dr,Salary  Payable,Payment,607.0,0.0,7590.0
+2017-09-02,Dr,Salary  Payable,Payment,608.0,0.0,13812.0
+2017-09-02,Dr,Salary  Payable,Payment,609.0,0.0,13812.0
+2017-09-04,Dr,Salary  Payable,Payment,610.0,0.0,22200.0
+2017-09-04,Dr,Salary  Payable,Payment,611.0,0.0,26200.0
+2017-09-05,Dr,Office  Expenses,Payment,612.0,0.0,27000.0
+2017-09-06,Dr,S  S  Interiors,Payment,613.0,0.0,42000.0
+2017-09-06,Dr,TDS  on  Salary  (192),Payment,614.0,0.0,73698.0
+2017-09-07,Cr,Xerox  Business  Services  India  Private  Limited,Receipt,71.0,224932.0,0.0
+2017-09-07,Cr,Anantha  Cybertech  Pvt  Ltd.,Receipt,72.0,81289.0,0.0
+2017-09-08,Cr,Data  Semantics  Private  Limited,Receipt,73.0,200000.0,0.0
+2017-09-11,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,74.0,100000.0,0.0
+2017-09-13,Cr,Collabera  Technologies  Private  Limited,Receipt,75.0,38995.0,0.0
+2017-09-13,Dr,Employee  Contribution  to  ESI,Payment,615.0,0.0,50236.0
+2017-09-13,Dr,Employee  Contribution  to  Provident  Fund,Payment,616.0,0.0,250612.0
+2017-09-14,Cr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Receipt,76.0,59243.0,0.0
+2017-09-14,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,77.0,448723.12,0.0
+2017-09-14,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,78.0,40413.0,0.0
+2017-09-14,Dr,Salary  Payable,Payment,617.0,0.0,2693.0
+2017-09-14,Dr,Salary  Payable,Payment,618.0,0.0,50254.0
+2017-09-14,Dr,Salary  Payable,Payment,619.0,0.0,7590.0
+2017-09-14,Dr,Salary  Advance,Payment,620.0,0.0,20000.0
+2017-09-14,Dr,Salary  Payable,Payment,621.0,0.0,5875.0
+2017-09-14,Dr,Office  Expenses,Payment,622.0,0.0,23000.0
+2017-09-14,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,623.0,0.0,59243.0
+2017-09-15,Cr,Collabera  Technologies  Private  Limited,Receipt,79.0,252712.0,0.0
+2017-09-15,Dr,Telephone  and  Internet  Expenses,Payment,624.0,0.0,7360.0
+2017-09-15,Dr,General  Drawings,Payment,625.0,0.0,30000.0
+2017-09-16,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,80.0,764697.0,0.0
+2017-09-18,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,81.0,46652.46,0.0
+2017-09-19,Cr,IonIdea  Interactive  Private  Limited,Receipt,82.0,49331.0,0.0
+2017-09-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,626.0,0.0,911.0
+2017-09-20,Dr,Dawn  Associates,Payment,627.0,0.0,13275.0
+2017-09-20,Dr,Adamma  Technologies  Ltd,Payment,628.0,0.0,34360.0
+2017-09-20,Dr,Samruddhi  Facility  Management  &  Services,Payment,629.0,0.0,33132.0
+2017-09-20,Dr,Credit  Card  Payout,Payment,630.0,0.0,45000.0
+2017-09-20,Dr,Electronic  Cash  Ledger,Payment,631.0,0.0,500000.0
+2017-09-21,Dr,Telephone  and  Internet  Expenses,Payment,632.0,0.0,1115.0
+2017-09-22,Dr,General  Drawings,Payment,633.0,0.0,50000.0
+2017-09-26,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,83.0,47560.0,0.0
+2017-09-26,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,84.0,358140.0,0.0
+2017-09-26,Dr,Salary  Payable,Payment,634.0,0.0,11024.0
+2017-09-26,Dr,Salary  Payable,Payment,635.0,0.0,5088.0
+2017-09-28,Cr,RPS  Consulting  Private  Limited,Receipt,85.0,64800.0,0.0
+2017-09-29,Cr,Agathsya  Technologies,Receipt,86.0,102425.0,0.0
+2017-09-30,Dr,Bank  Charges,Payment,636.0,0.0,2280.76
+2017-10-01,Dr,Subscription  Charges,Payment,637.0,0.0,250.0
+2017-10-01,Dr,General  Drawings,Payment,638.0,0.0,35000.0
+2017-10-01,Dr,Office  Expenses,Payment,639.0,0.0,25000.0
+2017-10-01,Dr,Telephone  and  Internet  Expenses,Payment,640.0,0.0,2500.0
+2017-10-01,Dr,Electronic  Cash  Ledger,Payment,641.0,0.0,57390.0
+2017-10-01,Dr,Salary  Payable,Payment,642.0,0.0,4052.0
+2017-10-01,Dr,Salary  Payable,Payment,643.0,0.0,5258.0
+2017-10-01,Dr,Salary  Payable,Payment,644.0,0.0,5624.0
+2017-10-01,Dr,Salary  Payable,Payment,645.0,0.0,20922.0
+2017-10-01,Dr,Salary  Payable,Payment,646.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,647.0,0.0,19468.0
+2017-10-01,Dr,Salary  Payable,Payment,648.0,0.0,20794.0
+2017-10-01,Dr,Salary  Payable,Payment,649.0,0.0,16414.0
+2017-10-01,Dr,Salary  Payable,Payment,650.0,0.0,6324.0
+2017-10-01,Dr,Salary  Payable,Payment,651.0,0.0,26200.0
+2017-10-01,Dr,Salary  Payable,Payment,652.0,0.0,13812.0
+2017-10-01,Dr,Salary  Payable,Payment,653.0,0.0,21200.0
+2017-10-01,Dr,Salary  Payable,Payment,654.0,0.0,16656.0
+2017-10-01,Dr,Salary  Payable,Payment,655.0,0.0,22200.0
+2017-10-01,Dr,Salary  Payable,Payment,656.0,0.0,13812.0
+2017-10-01,Dr,Salary  Payable,Payment,657.0,0.0,28200.0
+2017-10-01,Dr,Salary  Payable,Payment,658.0,0.0,114784.0
+2017-10-01,Dr,Salary  Payable,Payment,659.0,0.0,102132.0
+2017-10-01,Dr,Salary  Payable,Payment,660.0,0.0,22200.0
+2017-10-01,Dr,Salary  Payable,Payment,661.0,0.0,76289.0
+2017-10-01,Dr,Salary  Payable,Payment,662.0,0.0,1452.0
+2017-10-01,Dr,Salary  Payable,Payment,663.0,0.0,21200.0
+2017-10-01,Dr,Salary  Payable,Payment,664.0,0.0,31200.0
+2017-10-01,Dr,Salary  Payable,Payment,665.0,0.0,31200.0
+2017-10-01,Dr,Salary  Payable,Payment,666.0,0.0,34200.0
+2017-10-01,Dr,Salary  Payable,Payment,667.0,0.0,31096.0
+2017-10-01,Dr,Salary  Payable,Payment,668.0,0.0,8713.0
+2017-10-01,Dr,Salary  Payable,Payment,669.0,0.0,8713.0
+2017-10-01,Dr,Salary  Payable,Payment,670.0,0.0,37087.0
+2017-10-01,Dr,Salary  Payable,Payment,671.0,0.0,13812.0
+2017-10-01,Dr,Salary  Payable,Payment,672.0,0.0,18282.0
+2017-10-01,Dr,Salary  Payable,Payment,673.0,0.0,8423.0
+2017-10-01,Dr,Salary  Payable,Payment,674.0,0.0,16656.0
+2017-10-01,Dr,Salary  Payable,Payment,675.0,0.0,13197.0
+2017-10-01,Dr,Salary  Payable,Payment,676.0,0.0,27200.0
+2017-10-01,Dr,Salary  Payable,Payment,677.0,0.0,26200.0
+2017-10-01,Dr,Salary  Payable,Payment,678.0,0.0,20794.0
+2017-10-01,Dr,Salary  Payable,Payment,679.0,0.0,16656.0
+2017-10-01,Dr,Salary  Payable,Payment,680.0,0.0,19468.0
+2017-10-01,Dr,Salary  Payable,Payment,681.0,0.0,34926.0
+2017-10-01,Dr,Salary  Payable,Payment,682.0,0.0,11902.0
+2017-10-01,Dr,Salary  Payable,Payment,683.0,0.0,33222.0
+2017-10-01,Dr,Salary  Payable,Payment,684.0,0.0,17468.0
+2017-10-01,Dr,Salary  Payable,Payment,685.0,0.0,21200.0
+2017-10-01,Dr,Salary  Payable,Payment,686.0,0.0,13860.0
+2017-10-01,Dr,Salary  Payable,Payment,687.0,0.0,20794.0
+2017-10-01,Dr,Salary  Payable,Payment,688.0,0.0,85779.0
+2017-10-01,Dr,Salary  Payable,Payment,689.0,0.0,13860.0
+2017-10-01,Dr,Salary  Payable,Payment,690.0,0.0,13860.0
+2017-10-01,Dr,Salary  Payable,Payment,691.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,692.0,0.0,13812.0
+2017-10-01,Dr,Salary  Payable,Payment,693.0,0.0,27033.0
+2017-10-01,Dr,Salary  Payable,Payment,694.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,695.0,0.0,13812.0
+2017-10-01,Dr,Salary  Payable,Payment,696.0,0.0,21200.0
+2017-10-01,Dr,Salary  Payable,Payment,697.0,0.0,13860.0
+2017-10-01,Dr,Salary  Payable,Payment,698.0,0.0,1518.0
+2017-10-01,Dr,Salary  Payable,Payment,699.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,700.0,0.0,41200.0
+2017-10-01,Dr,Salary  Payable,Payment,701.0,0.0,50255.0
+2017-10-01,Dr,Salary  Payable,Payment,702.0,0.0,13860.0
+2017-10-01,Dr,Salary  Payable,Payment,703.0,0.0,8423.0
+2017-10-01,Dr,Salary  Payable,Payment,704.0,0.0,20586.0
+2017-10-01,Dr,Salary  Payable,Payment,705.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,706.0,0.0,8883.0
+2017-10-01,Dr,Salary  Payable,Payment,707.0,0.0,22200.0
+2017-10-01,Dr,Salary  Payable,Payment,708.0,0.0,8883.0
+2017-10-01,Dr,Salary  Payable,Payment,709.0,0.0,7337.0
+2017-10-01,Dr,Salary  Payable,Payment,710.0,0.0,13860.0
+2017-10-01,Dr,Salary  Payable,Payment,711.0,0.0,32271.0
+2017-10-01,Dr,Salary  Payable,Payment,712.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,713.0,0.0,5060.0
+2017-10-01,Dr,Salary  Payable,Payment,714.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,715.0,0.0,10678.0
+2017-10-01,Dr,Salary  Payable,Payment,716.0,0.0,14349.0
+2017-10-01,Dr,Salary  Payable,Payment,717.0,0.0,7590.0
+2017-10-01,Dr,Salary  Payable,Payment,718.0,0.0,26200.0
+2017-10-01,Dr,Salary  Payable,Payment,719.0,0.0,20794.0
+2017-10-01,Dr,Salary  Payable,Payment,720.0,0.0,13860.0
+2017-10-01,Dr,Unsecured  Kotak  Loan,Payment,721.0,0.0,75613.0
+2017-10-01,Dr,Staff  Welfare,Payment,722.0,0.0,8200.0
+2017-10-05,Cr,D  Cube  Analytics  Private  Limited,Receipt,87.0,51750.0,0.0
+2017-10-06,Cr,RPS  Consulting  Private  Limited,Receipt,88.0,72360.0,0.0
+2017-10-11,Cr,KPI  Partners  India  Private.Limited.,Receipt,89.0,67860.0,0.0
+2017-10-12,Dr,Dibyendu    Chakrabarthi_x000D_ 
+,Payment,723.0,0.0,29700.0
+2017-10-13,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,90.0,49929.58,0.0
+2017-10-13,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,91.0,862878.0,0.0
+2017-10-13,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,92.0,74348.0,0.0
+2017-10-13,Dr,Employee  Contribution  to  Provident  Fund,Payment,724.0,0.0,226954.0
+2017-10-13,Dr,Telephone  and  Internet  Expenses,Payment,725.0,0.0,7428.0
+2017-10-13,Dr,Electricity  /  Water  &  Utility  Charges,Payment,726.0,0.0,5441.0
+2017-10-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,727.0,0.0,7845.0
+2017-10-17,Cr,KnowledgeWorks  IT  Consulting  Pvt.  Ltd,Receipt,93.0,43200.0,0.0
+2017-10-17,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,94.0,41806.0,0.0
+2017-10-17,Dr,General  Drawings,Payment,728.0,0.0,46000.0
+2017-10-17,Dr,Samruddhi  Facility  Management  &  Services,Payment,729.0,0.0,33132.0
+2017-10-17,Dr,Credit  Card  Payout,Payment,730.0,0.0,40000.0
+2017-10-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,731.0,0.0,993.0
+2017-10-19,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,732.0,0.0,59243.0
+2017-10-19,Dr,Electronic  Cash  Ledger,Payment,733.0,0.0,500000.0
+2017-10-19,Dr,Employee  Contribution  to  ESI,Payment,734.0,0.0,39923.0
+2017-10-20,Dr,TDS  on  Salary  (192),Payment,735.0,0.0,85000.0
+2017-10-21,Dr,Travelling  Expenses,Payment,736.0,0.0,66957.73
+2017-10-23,Dr,Telephone  and  Internet  Expenses,Payment,737.0,0.0,1116.0
+2017-10-25,Cr,KPI  Partners  India  Private.Limited.,Receipt,95.0,52084.0,0.0
+2017-10-25,Cr,Collabera  Technologies  Private  Limited,Receipt,96.0,273187.0,0.0
+2017-10-26,Dr,Travelling  Expenses,Payment,738.0,0.0,17171.0
+2017-10-26,Dr,Travelling  Expenses,Payment,739.0,0.0,22766.0
+2017-10-26,Dr,Telephone  and  Internet  Expenses,Payment,740.0,0.0,3207.0
+2017-10-27,Dr,General  Drawings,Payment,741.0,0.0,20000.0
+2017-10-27,Dr,Office  Expenses,Payment,742.0,0.0,10000.0
+2017-10-27,Dr,Bank  Charges,Payment,743.0,0.0,2895.0
+2017-10-31,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,97.0,67935.24,0.0
+2017-10-31,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,98.0,107640.36,0.0
+2017-10-31,Dr,Info  Edge  (India)  Ltd,Payment,744.0,0.0,8500.0
+2017-11-01,Dr,Unsecured  Kotak  Loan,Payment,745.0,0.0,75613.0
+2017-11-02,Cr,D  Cube  Analytics  Private  Limited  -  Karnataka,Receipt,99.0,54000.0,0.0
+2017-11-02,Dr,Salary  to  Employees,Payment,746.0,0.0,26865.0
+2017-11-03,Cr,Data  Semantics  Private  Limited,Receipt,100.0,200000.0,0.0
+2017-11-03,Dr,Salary  Payable,Payment,747.0,0.0,1825162.0
+2017-11-07,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,101.0,151200.0,0.0
+2017-11-07,Dr,Telephone  and  Internet  Expenses,Payment,748.0,0.0,15000.0
+2017-11-07,Dr,Travelling  Expenses,Payment,749.0,0.0,2900.0
+2017-11-08,Cr,Collabera  Technologies  Private  Limited,Receipt,102.0,373826.0,0.0
+2017-11-08,Dr,TDS  on  Salary  (192),Payment,750.0,0.0,62356.0
+2017-11-09,Cr,RPS  Consulting  Private  Limited,Receipt,103.0,32400.0,0.0
+2017-11-10,Dr,General  Drawings,Payment,751.0,0.0,25000.0
+2017-11-14,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,104.0,124054.0,0.0
+2017-11-14,Cr,KPI  Partners  India  Private.Limited.,Receipt,105.0,30658.0,0.0
+2017-11-14,Dr,Samruddhi  Facility  Management  &  Services,Payment,752.0,0.0,33123.0
+2017-11-14,Dr,Employee  Contribution  to  ESI,Payment,753.0,0.0,31536.0
+2017-11-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,754.0,0.0,235036.0
+2017-11-15,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,106.0,46653.64,0.0
+2017-11-15,Cr,IonIdea  Interactive  Private  Limited,Receipt,107.0,91337.0,0.0
+2017-11-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,755.0,0.0,7625.0
+2017-11-16,Cr,Income  Tax  Refund  Due  [  Prior  to  FY  15-16],Receipt,108.0,543890.0,0.0
+2017-11-16,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,109.0,952256.0,0.0
+2017-11-16,Dr,Office  Expenses,Payment,756.0,0.0,10000.0
+2017-11-16,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,757.0,0.0,59243.0
+2017-11-16,Dr,General  Drawings,Payment,758.0,0.0,30000.0
+2017-11-17,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,110.0,11880.0,0.0
+2017-11-18,Dr,Electronic  Cash  Ledger,Payment,759.0,0.0,430000.0
+2017-11-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,760.0,0.0,986.0
+2017-11-21,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,111.0,885772.0,0.0
+2017-11-21,Cr,Debtors  (Transfer),Receipt,112.0,10115.8,0.0
+2017-11-21,Cr,RPS  Consulting  Private  Limited,Receipt,113.0,113686.0,0.0
+2017-11-21,Dr,Office  Expenses,Payment,761.0,0.0,35000.0
+2017-11-21,Dr,Office  Expenses,Payment,762.0,0.0,15000.0
+2017-11-22,Dr,Telephone  and  Internet  Expenses,Payment,763.0,0.0,1115.0
+2017-11-23,Dr,Office  Expenses,Payment,764.0,0.0,4500.0
+2017-11-24,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,114.0,29700.0,0.0
+2017-11-24,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,115.0,40319.0,0.0
+2017-11-24,Cr,Income  Tax  Refund  Due  [  Prior  to  FY  15-16],Receipt,116.0,23370.0,0.0
+2017-11-27,Dr,Credit  Card  Payout,Payment,765.0,0.0,45000.0
+2017-11-29,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,117.0,121412.42,0.0
+2017-11-29,Cr,IonIdea  Interactive  Private  Limited,Receipt,118.0,85536.0,0.0
+2017-11-30,Cr,Covalense  Technologies,Receipt,119.0,81000.0,0.0
+2017-11-30,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,120.0,153812.52,0.0
+2017-11-30,Dr,Credit  Card  Payout,Payment,766.0,0.0,45000.0
+2017-11-30,Dr,General  Drawings,Payment,767.0,0.0,9000.0
+2017-12-01,Dr,Travelling  Expenses,Payment,768.0,0.0,6805.0
+2017-12-01,Dr,Unsecured  Kotak  Loan,Payment,769.0,0.0,75613.0
+2017-12-01,Dr,Salary  Payable,Payment,770.0,0.0,1939629.0
+2017-12-01,Dr,Interest  on  Overdraft,Payment,771.0,0.0,4081.0
+2017-12-01,Dr,Interest  on  Overdraft,Payment,772.0,0.0,697.0
+2017-12-03,Dr,Travelling  Expenses,Payment,773.0,0.0,14111.0
+2017-12-04,Dr,Travelling  Expenses,Payment,774.0,0.0,3038.0
+2017-12-04,Dr,Travelling  Expenses,Payment,775.0,0.0,5443.0
+2017-12-04,Dr,Travelling  Expenses,Payment,776.0,0.0,10858.0
+2017-12-04,Dr,Travelling  Expenses,Payment,777.0,0.0,4667.0
+2017-12-04,Cr,Income  Tax  Refund  Due  FY  16-17,Receipt,121.0,459450.0,0.0
+2017-12-06,Dr,Telephone  and  Internet  Expenses,Payment,778.0,0.0,30000.0
+2017-12-06,Dr,Office  Expenses,Payment,779.0,0.0,15000.0
+2017-12-06,Dr,Intsol  Consultants  Private  Limited_x000D_ 
+,Payment,780.0,0.0,54000.0
+2017-12-06,Dr,March31st  Consulting  LLP,Payment,781.0,0.0,97200.0
+2017-12-07,Dr,TDS  on  Salary  (192),Payment,782.0,0.0,67076.0
+2017-12-07,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,122.0,44280.0,0.0
+2017-12-07,Cr,KPI  Partners  India  Private.Limited.,Receipt,123.0,70200.0,0.0
+2017-12-08,Cr,KPI  Partners  India  Private.Limited.,Receipt,124.0,39542.0,0.0
+2017-12-10,Dr,Apartment  EMI,Payment,783.0,0.0,25000.0
+2017-12-13,Dr,Apartment  EMI,Payment,784.0,0.0,23000.0
+2017-12-13,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,125.0,113400.0,0.0
+2017-12-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,785.0,0.0,253925.0
+2017-12-14,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,126.0,1041992.0,0.0
+2017-12-14,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,127.0,175706.0,0.0
+2017-12-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,786.0,0.0,8908.0
+2017-12-15,Dr,Intsol  Consultants  Private  Limited_x000D_ 
+,Payment,787.0,0.0,54000.0
+2017-12-15,Dr,Samruddhi  Facility  Management  &  Services,Payment,788.0,0.0,33123.0
+2017-12-15,Dr,Employers  Contribution  to  ESI  (Including  Admin),Payment,789.0,0.0,38654.0
+2017-12-15,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,790.0,0.0,59243.0
+2017-12-15,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,128.0,40412.0,0.0
+2017-12-18,Dr,Electronic  Cash  Ledger,Payment,791.0,0.0,500000.0
+2017-12-18,Dr,General  Drawings,Payment,792.0,0.0,39000.0
+2017-12-18,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,129.0,826926.3,0.0
+2017-12-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,793.0,0.0,760.0
+2017-12-20,Dr,General  Drawings,Payment,794.0,0.0,27500.0
+2017-12-20,Dr,Deepthi  Professional  Charges  Payable,Payment,795.0,0.0,75000.0
+2017-12-22,Dr,Office  Expenses,Payment,796.0,0.0,1115.0
+2017-12-26,Dr,Credit  Card  Payout,Payment,797.0,0.0,40000.0
+2017-12-26,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,130.0,119340.0,0.0
+2017-12-28,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,131.0,81000.0,0.0
+2017-12-28,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,132.0,204120.0,0.0
+2017-12-30,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,133.0,36406.0,0.0
+2018-01-01,Dr,Unsecured  Kotak  Loan,Payment,798.0,0.0,75613.0
+2018-01-01,Dr,General  Drawings,Payment,799.0,0.0,20000.0
+2018-01-03,Dr,Salary  Payable,Payment,800.0,0.0,2248633.0
+2018-01-05,Dr,Office  Expenses,Payment,801.0,0.0,35000.0
+2018-01-05,Dr,Office  Expenses,Payment,802.0,0.0,20000.0
+2018-01-05,Cr,IonIdea  Interactive  Private  Limited,Receipt,134.0,63504.0,0.0
+2018-01-05,Cr,Income  Tax  Refund  Due  [  Prior  to  FY  15-16],Receipt,135.0,172000.0,0.0
+2018-01-05,Dr,Apartment  EMI,Payment,803.0,0.0,20000.0
+2018-01-06,Dr,General  Drawings,Payment,804.0,0.0,6958.0
+2018-01-08,Dr,Travelling  Expenses,Payment,805.0,0.0,1020.0
+2018-01-08,Dr,TDS  on  Salary  (192),Payment,806.0,0.0,78797.0
+2018-01-09,Cr,Data  Semantics  Private  Limited,Receipt,136.0,250000.0,0.0
+2018-01-09,Cr,Aprameyah  Technologies  -  Old,Receipt,137.0,54000.0,0.0
+2018-01-10,Dr,Monster.Com  India  Pvt  Ltd,Payment,807.0,0.0,31050.0
+2018-01-10,Dr,Travelling  Expenses,Payment,808.0,0.0,7354.0
+2018-01-10,Cr,RPS  Consulting  Private  Limited,Receipt,138.0,112818.0,0.0
+2018-01-10,Cr,KPI  Partners  India  Private.Limited.,Receipt,139.0,70200.0,0.0
+2018-01-12,Dr,Office  Expenses,Payment,809.0,0.0,35000.0
+2018-01-12,Dr,Utkrusht  Software  Technologies  Pvt  Ltd,Payment,810.0,0.0,23762.0
+2018-01-12,Dr,Dawn  Associates,Payment,811.0,0.0,8100.0
+2018-01-12,Dr,Adamma  Technologies  Ltd,Payment,812.0,0.0,3294.0
+2018-01-12,Dr,Samruddhi  Facility  Management  &  Services,Payment,813.0,0.0,33123.0
+2018-01-12,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,814.0,0.0,59243.0
+2018-01-12,Dr,Anusree  Enterprises,Payment,815.0,0.0,6300.0
+2018-01-12,Dr,Employee  Contribution  to  ESI,Payment,816.0,0.0,46546.0
+2018-01-12,Dr,Employee  Contribution  to  Provident  Fund,Payment,817.0,0.0,292164.0
+2018-01-12,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,140.0,771078.68,0.0
+2018-01-12,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,141.0,958063.0,0.0
+2018-01-15,Cr,IonIdea  Interactive  Private  Limited,Receipt,142.0,127872.0,0.0
+2018-01-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,818.0,0.0,8093.0
+2018-01-16,Dr,Credit  Card  Payout,Payment,819.0,0.0,45000.0
+2018-01-16,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,143.0,183600.0,0.0
+2018-01-17,Dr,Electronic  Cash  Ledger,Payment,820.0,0.0,500000.0
+2018-01-18,Dr,Electronic  Cash  Ledger,Payment,821.0,0.0,138549.0
+2018-01-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,822.0,0.0,749.0
+2018-01-19,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,144.0,41760.0,0.0
+2018-01-19,Cr,Collabera  Technologies  Private  Limited,Receipt,145.0,326943.0,0.0
+2018-01-20,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,146.0,136174.0,0.0
+2018-01-21,Dr,Telephone  and  Internet  Expenses,Payment,823.0,0.0,1115.0
+2018-01-22,Dr,General  Drawings,Payment,824.0,0.0,25000.0
+2018-01-22,Dr,Office  Expenses,Payment,825.0,0.0,25000.0
+2018-01-22,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,147.0,488160.0,0.0
+2018-01-24,Cr,Covalense  Technologies  -  ISD,Receipt,148.0,81000.0,0.0
+2018-01-25,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,149.0,52317.56,0.0
+2018-01-27,Dr,Computers,Payment,826.0,0.0,65000.0
+2018-01-29,Dr,Subscription  Charges,Payment,827.0,0.0,250.0
+2018-01-29,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,150.0,41020.0,0.0
+2018-01-30,Dr,Telephone  and  Internet  Expenses,Payment,828.0,0.0,3000.0
+2018-01-30,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,151.0,216000.0,0.0
+2018-01-31,Dr,Interest  on  Overdraft,Payment,829.0,0.0,2786.0
+2018-02-01,Dr,Unsecured  Kotak  Loan,Payment,830.0,0.0,75613.0
+2018-02-01,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,152.0,354656.0,0.0
+2018-02-02,Dr,Salary  Payable,Payment,831.0,0.0,2402648.0
+2018-02-03,Dr,Office  Expenses,Payment,832.0,0.0,2500.0
+2018-02-03,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,153.0,22993.2,0.0
+2018-02-06,Dr,Office  Expenses,Payment,833.0,0.0,30000.0
+2018-02-06,Dr,Office  Expenses,Payment,834.0,0.0,25000.0
+2018-02-07,Dr,TDS  on  Salary  (192),Payment,835.0,0.0,83036.0
+2018-02-08,Dr,Deepthi  Professional  Charges  Payable,Payment,836.0,0.0,60000.0
+2018-02-09,Dr,Apartment  EMI,Payment,837.0,0.0,20000.0
+2018-02-09,Cr,Collabera  Technologies  Private  Limited,Receipt,154.0,1018633.04,0.0
+2018-02-12,Cr,KPI  Partners  India  Private.Limited.,Receipt,155.0,70200.0,0.0
+2018-02-13,Dr,Employee  Contribution  to  Provident  Fund,Payment,838.0,0.0,307436.0
+2018-02-13,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,156.0,169560.0,0.0
+2018-02-13,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,157.0,85217.0,0.0
+2018-02-14,Dr,Credit  Card  Payout,Payment,839.0,0.0,25000.0
+2018-02-14,Dr,Samruddhi  Facility  Management  &  Services,Payment,840.0,0.0,33123.0
+2018-02-14,Dr,Employee  Contribution  to  ESI,Payment,841.0,0.0,51461.0
+2018-02-14,Cr,Data  Semantics  Private  Limited,Receipt,158.0,200000.0,0.0
+2018-02-14,Cr,Collabera  Technologies  Private  Limited,Receipt,159.0,144326.9,0.0
+2018-02-15,Dr,Computers,Payment,842.0,0.0,70200.0
+2018-02-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,843.0,0.0,8642.0
+2018-02-15,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,160.0,59400.0,0.0
+2018-02-16,Dr,Electronic  Cash  Ledger,Payment,844.0,0.0,500000.0
+2018-02-16,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,845.0,0.0,59243.0
+2018-02-17,Dr,General  Drawings,Payment,846.0,0.0,200000.0
+2018-02-17,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,161.0,740067.0,0.0
+2018-02-17,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,162.0,1058230.0,0.0
+2018-02-20,Dr,Electronic  Cash  Ledger,Payment,847.0,0.0,59087.0
+2018-02-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,848.0,0.0,1433.0
+2018-02-21,Dr,Electricity  /  Water  &  Utility  Charges,Payment,849.0,0.0,1116.0
+2018-02-21,Cr,Collabera  Technologies  Private  Limited,Receipt,163.0,94688.63,0.0
+2018-02-21,Dr,Credit  Card  Payout,Payment,850.0,0.0,40000.0
+2018-02-26,Dr,March31st  Consulting  LLP,Payment,851.0,0.0,132600.0
+2018-02-27,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,164.0,41806.8,0.0
+2018-02-28,Dr,Credit  Card  Payout,Payment,852.0,0.0,35000.0
+2018-02-28,Dr,Interest  on  Overdraft,Payment,853.0,0.0,1463.0
+2018-03-01,Dr,Unsecured  Kotak  Loan,Payment,854.0,0.0,75613.0
+2018-03-02,Dr,Salary  Payable,Payment,855.0,0.0,2357784.0
+2018-03-02,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,165.0,103646.0,0.0
+2018-03-06,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,166.0,122457.96,0.0
+2018-03-06,Dr,Apartment  EMI,Payment,856.0,0.0,25000.0
+2018-03-06,Dr,TDS  on  Salary  (192),Payment,857.0,0.0,63381.0
+2018-03-07,Dr,Telephone  and  Internet  Expenses,Payment,858.0,0.0,35000.0
+2018-03-08,Dr,Office  Expenses,Payment,859.0,0.0,25000.0
+2018-03-09,Cr,Technocrafty  Solutions  LLP,Receipt,167.0,6677.62,0.0
+2018-03-13,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,168.0,91800.0,0.0
+2018-03-13,Dr,Employee  Contribution  to  ESI,Payment,860.0,0.0,51661.0
+2018-03-14,Cr,Collabera  Technologies  Private  Limited,Receipt,169.0,796989.32,0.0
+2018-03-14,Cr,RPS  Consulting  Private  Limited,Receipt,170.0,64800.0,0.0
+2018-03-15,Cr,Technocrafty  Solutions  LLP,Receipt,171.0,81000.0,0.0
+2018-03-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,861.0,0.0,7708.0
+2018-03-16,Dr,Employee  Contribution  to  Provident  Fund,Payment,862.0,0.0,308513.0
+2018-03-16,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,863.0,0.0,59243.0
+2018-03-16,Dr,Samruddhi  Facility  Management  &  Services,Payment,864.0,0.0,33123.0
+2018-03-16,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,172.0,118800.0,0.0
+2018-03-17,Dr,Salary  Advance,Payment,865.0,0.0,25000.0
+2018-03-19,Dr,Electronic  Cash  Ledger,Payment,866.0,0.0,500000.0
+2018-03-20,Dr,Credit  Card  Payout,Payment,867.0,0.0,25000.0
+2018-03-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,868.0,0.0,1494.0
+2018-03-20,Dr,Electronic  Cash  Ledger,Payment,869.0,0.0,177152.0
+2018-03-20,Dr,Computers,Payment,870.0,0.0,56000.0
+2018-03-21,Dr,Electricity  /  Water  &  Utility  Charges,Payment,871.0,0.0,1115.0
+2018-03-21,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,173.0,91800.0,0.0
+2018-03-21,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,174.0,1064148.0,0.0
+2018-03-22,Cr,KM  Medical  Software,Receipt,175.0,196000.0,0.0
+2018-03-23,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,176.0,53651.0,0.0
+2018-03-26,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,177.0,638244.24,0.0
+2018-03-28,Dr,General  Drawings,Payment,872.0,0.0,25000.0
+2018-03-28,Dr,Office  Expenses,Payment,873.0,0.0,25000.0
+2018-03-28,Dr,Computers,Payment,874.0,0.0,17000.0
+2018-03-29,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,178.0,257040.0,0.0
+2018-03-29,Cr,KPI  Partners  India  Private.Limited.,Receipt,179.0,20381.0,0.0
+2018-03-31,Dr,Credit  Card  Payout,Payment,875.0,0.0,25000.0
+2018-03-31,Dr,Interest  on  Overdraft,Payment,876.0,0.0,4317.0
+2018-03-31,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,180.0,359640.0,0.0
+2018-03-31,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,181.0,86339.24,0.0
+2018-04-01,Dr,Unsecured  Kotak  Loan,Payment,1.0,0.0,75613.0
+2018-04-03,Dr,Credit  Card  Payout,Payment,2.0,0.0,25000.0
+2018-04-04,Dr,Salary  Payable,Payment,3.0,0.0,2536827.0
+2018-04-04,Dr,Rates  &  Taxes,Payment,4.0,0.0,1057.0
+2018-04-04,Dr,Rental  Deposit,Payment,5.0,0.0,500000.0
+2018-04-04,Dr,General  Drawings,Payment,6.0,0.0,45000.0
+2018-04-04,Cr,RPS  Consulting  Private  Limited,Receipt,1.0,91553.0,0.0
+2018-04-04,Cr,Tataji  Gandipandala,Receipt,2.0,500000.0,0.0
+2018-04-05,Dr,Adamma  Technologies  Ltd,Payment,7.0,0.0,22728.0
+2018-04-06,Dr,Telephone  and  Internet  Expenses,Payment,8.0,0.0,35000.0
+2018-04-06,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,3.0,90370.86,0.0
+2018-04-09,Dr,Apartment  EMI,Payment,9.0,0.0,20000.0
+2018-04-11,Cr,Data  Semantics  Private  Limited,Receipt,4.0,200000.0,0.0
+2018-04-12,Dr,Venkatramana  Sambari,Payment,10.0,0.0,65454.0
+2018-04-12,Dr,Rental  Deposit,Payment,11.0,0.0,500000.0
+2018-04-13,Dr,Employee  Contribution  to  Provident  Fund,Payment,12.0,0.0,313671.0
+2018-04-13,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,5.0,262478.48,0.0
+2018-04-13,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,6.0,56160.0,0.0
+2018-04-16,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,7.0,89217.0,0.0
+2018-04-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,13.0,0.0,9965.0
+2018-04-17,Dr,Credit  Card  Payout,Payment,14.0,0.0,28000.0
+2018-04-17,Dr,Office  Expenses,Payment,15.0,0.0,25000.0
+2018-04-17,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,16.0,0.0,59243.0
+2018-04-18,Dr,Samruddhi  Facility  Management  &  Services,Payment,17.0,0.0,33123.0
+2018-04-18,Dr,Rates  &  Taxes,Payment,18.0,0.0,17700.0
+2018-04-18,Dr,General  Drawings,Payment,19.0,0.0,7761.45
+2018-04-18,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,8.0,1082439.0,0.0
+2018-04-18,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,9.0,86236.82,0.0
+2018-04-18,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,10.0,695577.6,0.0
+2018-04-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,20.0,0.0,1087.0
+2018-04-19,Dr,Electronic  Cash  Ledger,Payment,21.0,0.0,815000.0
+2018-04-20,Cr,KnowledgeWorks  IT  Consulting  Pvt.  Ltd,Receipt,11.0,43200.0,0.0
+2018-04-20,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,12.0,57278.0,0.0
+2018-04-22,Dr,Electricity  /  Water  &  Utility  Charges,Payment,22.0,0.0,1115.0
+2018-04-24,Cr,KPI  Partners  India  Private.Limited.,Receipt,13.0,51729.0,0.0
+2018-04-25,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,14.0,128916.06,0.0
+2018-04-26,Dr,TDS  on  Salary  (192),Payment,23.0,0.0,39991.0
+2018-04-27,Dr,Monster.Com  India  Pvt  Ltd,Payment,24.0,0.0,31050.0
+2018-04-27,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,15.0,695944.74,0.0
+2018-04-27,Cr,Collabera  Technologies  Private  Limited,Receipt,16.0,987258.99,0.0
+2018-04-27,Cr,RPS  Consulting  Private  Limited,Receipt,17.0,89369.0,0.0
+2018-04-30,Dr,Credit  Card  Payout,Payment,25.0,0.0,48000.0
+2018-04-30,Dr,Interest  on  Overdraft,Payment,26.0,0.0,5751.0
+2018-05-01,Dr,Unsecured  Kotak  Loan,Payment,27.0,0.0,75613.0
+2018-05-02,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,18.0,91800.0,0.0
+2018-05-03,Dr,Salary  Payable,Payment,28.0,0.0,2493841.0
+2018-05-03,Dr,Salary  to  Employees,Payment,29.0,0.0,33654.0
+2018-05-03,Dr,Salary  Payable,Payment,30.0,0.0,4967.0
+2018-05-03,Dr,Salary  Payable,Payment,31.0,0.0,5846.0
+2018-05-03,Dr,Salary  Payable,Payment,32.0,0.0,4967.0
+2018-05-03,Dr,Salary  Payable,Payment,33.0,0.0,5163.0
+2018-05-03,Dr,Salary  Payable,Payment,34.0,0.0,43301.0
+2018-05-03,Dr,Salary  Payable,Payment,35.0,0.0,10636.0
+2018-05-03,Dr,Salary  Payable,Payment,36.0,0.0,14511.0
+2018-05-03,Dr,Salary  Payable,Payment,37.0,0.0,3288.0
+2018-05-03,Cr,RPS  Consulting  Private  Limited,Receipt,19.0,68963.0,0.0
+2018-05-04,Dr,Telephone  and  Internet  Expenses,Payment,38.0,0.0,45000.0
+2018-05-04,Dr,General  Drawings,Payment,39.0,0.0,10000.0
+2018-05-05,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,20.0,30657.96,0.0
+2018-05-05,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,21.0,115896.22,0.0
+2018-05-05,Cr,General  Drawings,Receipt,22.0,10000.0,0.0
+2018-05-07,Dr,TDS  on  Salary  (192),Payment,40.0,0.0,96985.0
+2018-05-07,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,23.0,132840.0,0.0
+2018-05-08,Dr,General  Drawings,Payment,41.0,0.0,10000.0
+2018-05-09,Dr,Sridhar    New  Office  Rent,Payment,42.0,0.0,76833.0
+2018-05-10,Dr,Employee  Contribution  to  ESI,Payment,43.0,0.0,52352.0
+2018-05-10,Dr,Apartment  EMI,Payment,44.0,0.0,28000.0
+2018-05-10,Cr,Collabera  Technologies  Private  Limited,Receipt,24.0,1570985.48,0.0
+2018-05-10,Cr,RPS  Consulting  Private  Limited,Receipt,25.0,68510.0,0.0
+2018-05-11,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,26.0,86400.0,0.0
+2018-05-14,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,27.0,55567.0,0.0
+2018-05-15,Dr,Employee  Contribution  to  ESI,Payment,45.0,0.0,34918.0
+2018-05-15,Dr,Employee  Contribution  to  Provident  Fund,Payment,46.0,0.0,340183.0
+2018-05-15,Dr,Credit  Card  Payout,Payment,47.0,0.0,25000.0
+2018-05-15,Dr,Samruddhi  Facility  Management  &  Services,Payment,48.0,0.0,33123.0
+2018-05-15,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,49.0,0.0,59243.0
+2018-05-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,50.0,0.0,8632.0
+2018-05-16,Dr,Office  Expenses,Payment,51.0,0.0,20000.0
+2018-05-17,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,28.0,47380.0,0.0
+2018-05-18,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,29.0,1112593.0,0.0
+2018-05-18,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,30.0,377113.22,0.0
+2018-05-18,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,31.0,93511.4,0.0
+2018-05-18,Dr,Electronic  Cash  Ledger,Payment,52.0,0.0,500000.0
+2018-05-19,Dr,General  Drawings,Payment,53.0,0.0,64000.0
+2018-05-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,54.0,0.0,1074.0
+2018-05-21,Dr,Electronic  Cash  Ledger,Payment,55.0,0.0,47409.0
+2018-05-21,Cr,Collabera  Technologies  Private  Limited,Receipt,32.0,31418.28,0.0
+2018-05-21,Dr,General  Drawings,Payment,56.0,0.0,70000.0
+2018-05-21,Cr,General  Drawings,Receipt,33.0,70000.0,0.0
+2018-05-23,Dr,Electricity  /  Water  &  Utility  Charges,Payment,57.0,0.0,1115.0
+2018-05-24,Dr,General  Drawings,Payment,58.0,0.0,40000.0
+2018-05-24,Dr,Salary  Payable,Payment,59.0,0.0,17388.0
+2018-05-24,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,34.0,33444.0,0.0
+2018-05-28,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,35.0,89495.2,0.0
+2018-05-29,Dr,Tuition  Fee,Payment,60.0,0.0,30000.0
+2018-05-29,Dr,General  Drawings,Payment,61.0,0.0,30000.0
+2018-05-30,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,36.0,91800.0,0.0
+2018-05-31,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,37.0,348462.0,0.0
+2018-05-31,Dr,Interest  on  Overdraft,Payment,62.0,0.0,2292.0
+2018-06-01,Dr,Unsecured  Kotak  Loan,Payment,63.0,0.0,75613.0
+2018-06-02,Dr,Salary  Payable,Payment,64.0,0.0,2663876.0
+2018-06-02,Dr,Travelling  Expenses,Payment,65.0,0.0,40000.0
+2018-06-04,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,38.0,60480.0,0.0
+2018-06-05,Cr,KnowledgeWorks  IT  Consulting  Pvt.  Ltd,Receipt,39.0,36180.0,0.0
+2018-06-07,Dr,TDS  on  Salary  (192),Payment,66.0,0.0,104236.0
+2018-06-07,Dr,Apartment  EMI,Payment,67.0,0.0,25000.0
+2018-06-11,Dr,Telephone  and  Internet  Expenses,Payment,68.0,0.0,37500.0
+2018-06-11,Dr,Office  Expenses,Payment,69.0,0.0,25000.0
+2018-06-12,Dr,Venkatramana  Sambari,Payment,70.0,0.0,75339.0
+2018-06-12,Dr,Dawn  Associates,Payment,71.0,0.0,18900.0
+2018-06-12,Cr,Data  Semantics  Private  Limited,Receipt,40.0,200000.0,0.0
+2018-06-13,Dr,Sridhar    New  Office  Rent,Payment,72.0,0.0,115250.0
+2018-06-14,Cr,Collabera  Technologies  Private  Limited,Receipt,41.0,1627847.63,0.0
+2018-06-14,Dr,Samruddhi  Facility  Management  &  Services,Payment,73.0,0.0,33123.0
+2018-06-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,74.0,0.0,344451.0
+2018-06-14,Dr,Employee  Contribution  to  ESI,Payment,75.0,0.0,38368.0
+2018-06-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,76.0,0.0,8796.0
+2018-06-15,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,77.0,0.0,59243.0
+2018-06-18,Dr,Credit  Card  Payout,Payment,78.0,0.0,27500.0
+2018-06-18,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,42.0,43200.0,0.0
+2018-06-18,Dr,Electronic  Cash  Ledger,Payment,79.0,0.0,500000.0
+2018-06-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,80.0,0.0,26141.0
+2018-06-19,Dr,Electronic  Cash  Ledger,Payment,81.0,0.0,151019.0
+2018-06-19,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,43.0,263025.74,0.0
+2018-06-20,Dr,Travelling  Expenses,Payment,82.0,0.0,35000.0
+2018-06-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,83.0,0.0,1106.0
+2018-06-20,Dr,Travelling  Expenses,Payment,84.0,0.0,30000.0
+2018-06-20,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,44.0,1086619.0,0.0
+2018-06-21,Dr,Telephone  and  Internet  Expenses,Payment,85.0,0.0,2000.0
+2018-06-21,Dr,Electricity  /  Water  &  Utility  Charges,Payment,86.0,0.0,1116.0
+2018-06-21,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,45.0,68040.0,0.0
+2018-06-22,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,46.0,212039.0,0.0
+2018-06-24,Dr,Subscription  Charges,Payment,87.0,0.0,300.0
+2018-06-25,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,47.0,57484.08,0.0
+2018-06-26,Dr,General  Drawings,Payment,88.0,0.0,25000.0
+2018-06-28,Dr,Credit  Card  Payout,Payment,89.0,0.0,45000.0
+2018-06-29,Dr,Naukri.Com,Payment,90.0,0.0,49500.0
+2018-06-30,Dr,General  Drawings,Payment,91.0,0.0,30000.0
+2018-06-30,Dr,Office  Expenses,Payment,92.0,0.0,929.0
+2018-06-30,Dr,Interest  on  Overdraft,Payment,93.0,0.0,5106.0
+2018-07-01,Dr,Unsecured  Kotak  Loan,Payment,94.0,0.0,75613.0
+2018-07-02,Dr,Adamma  Technologies  Ltd,Payment,95.0,0.0,14177.0
+2018-07-03,Dr,Salary  Payable,Payment,96.0,0.0,2015045.0
+2018-07-03,Cr,KnowledgeWorks  IT  Consulting  Pvt.  Ltd,Receipt,48.0,18090.0,0.0
+2018-07-03,Dr,Office  Expenses,Payment,97.0,0.0,21600.0
+2018-07-05,Dr,Salary  Payable,Payment,98.0,0.0,98757.0
+2018-07-06,Dr,Salary  Payable,Payment,99.0,0.0,60000.0
+2018-07-06,Cr,Capital  -  Rajesh  Kumar  (Aroha  A/c),Receipt,49.0,25000.0,0.0
+2018-07-06,Cr,Data  Semantics  Private  Limited,Receipt,50.0,180000.0,0.0
+2018-07-06,Dr,Subscription  Charges,Payment,100.0,0.0,735.0
+2018-07-06,Dr,Sridhar    New  Office  Rent,Payment,101.0,0.0,25000.0
+2018-07-07,Dr,Sridhar    New  Office  Rent,Payment,102.0,0.0,75000.0
+2018-07-09,Cr,General  Drawings,Receipt,51.0,100000.0,0.0
+2018-07-09,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,52.0,61719.8,0.0
+2018-07-10,Dr,Salary  Payable,Payment,103.0,0.0,415951.0
+2018-07-10,Cr,Capital  -  Rajesh  Kumar  (Aroha  A/c),Receipt,53.0,50000.0,0.0
+2018-07-10,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,54.0,97200.0,0.0
+2018-07-10,Cr,Millennium  Info  Tech  Inc,Receipt,55.0,677467.55,0.0
+2018-07-10,Dr,Sridhar    New  Office  Rent,Payment,104.0,0.0,15250.0
+2018-07-10,Dr,Foreign  Exchange  Gain/Loss,Payment,105.0,0.0,699.72
+2018-07-10,Dr,Apartment  EMI,Payment,106.0,0.0,35000.0
+2018-07-11,Dr,General  Drawings,Payment,107.0,0.0,35000.0
+2018-07-12,Dr,Telephone  and  Internet  Expenses,Payment,108.0,0.0,33296.0
+2018-07-12,Dr,Telephone  and  Internet  Expenses,Payment,109.0,0.0,6750.0
+2018-07-12,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,56.0,417889.3,0.0
+2018-07-13,Dr,General  Drawings,Payment,110.0,0.0,88630.0
+2018-07-13,Cr,Disys  India  Pvt.Ltd,Receipt,57.0,64800.0,0.0
+2018-07-13,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,58.0,443271.37,0.0
+2018-07-13,Dr,Salary  Payable,Payment,111.0,0.0,52217.0
+2018-07-13,Dr,Employers  Contribution  to  ESI  Payable,Payment,112.0,0.0,44183.0
+2018-07-13,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,59.0,181409.0,0.0
+2018-07-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,113.0,0.0,347724.0
+2018-07-16,Dr,Credit  Card  Payout,Payment,114.0,0.0,30000.0
+2018-07-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,115.0,0.0,4654.0
+2018-07-16,Dr,Samruddhi  Facility  Management  &  Services,Payment,116.0,0.0,33123.0
+2018-07-16,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,117.0,0.0,59243.0
+2018-07-16,Dr,Office  Expenses,Payment,118.0,0.0,30000.0
+2018-07-16,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,60.0,951480.0,0.0
+2018-07-16,Dr,Utkrusht  Software  Technologies  Pvt  Ltd,Payment,119.0,0.0,35640.0
+2018-07-16,Cr,KnowledgeWorks  IT  Consulting  Pvt.  Ltd,Receipt,61.0,18090.0,0.0
+2018-07-17,Dr,Telephone  and  Internet  Expenses,Payment,120.0,0.0,1000.0
+2018-07-18,Dr,Travelling  Expenses,Payment,121.0,0.0,29500.0
+2018-07-18,Dr,Telephone  and  Internet  Expenses,Payment,122.0,0.0,1115.0
+2018-07-18,Dr,Rates  &  Taxes,Payment,123.0,0.0,17657.0
+2018-07-19,Cr,Compassites  Software  Solutions  Pvt  Ltd.,Receipt,62.0,17458.0,0.0
+2018-07-19,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,63.0,154510.0,0.0
+2018-07-19,Dr,General  Drawings,Payment,124.0,0.0,20000.0
+2018-07-20,Dr,Electronic  Cash  Ledger,Payment,125.0,0.0,500000.0
+2018-07-20,Cr,Capital  First  Ltd,Receipt,64.0,1465794.0,0.0
+2018-07-20,Dr,Telephone  and  Internet  Expenses,Payment,126.0,0.0,5000.0
+2018-07-21,Dr,Electronic  Cash  Ledger,Payment,127.0,0.0,262691.0
+2018-07-21,Dr,General  Drawings,Payment,128.0,0.0,100000.0
+2018-07-21,Dr,General  Drawings,Payment,129.0,0.0,9900.0
+2018-07-23,Dr,TDS  U/s  194C,Payment,130.0,0.0,89765.0
+2018-07-23,Dr,March31st  Consulting  LLP,Payment,131.0,0.0,99900.0
+2018-07-23,Dr,Telephone  and  Internet  Expenses,Payment,132.0,0.0,2182.0
+2018-07-23,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,65.0,129600.0,0.0
+2018-07-25,Dr,General  Drawings,Payment,133.0,0.0,40000.0
+2018-07-26,Cr,Keystone  logic    A  division  of  Zensar  technologies  Ltd.,Receipt,66.0,59400.0,0.0
+2018-07-26,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,67.0,97200.0,0.0
+2018-07-27,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,68.0,127155.0,0.0
+2018-07-30,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,69.0,57483.68,0.0
+2018-07-31,Cr,Disys  India  Pvt.Ltd,Receipt,70.0,912.0,0.0
+2018-07-31,Dr,Monster.Com  India  Pvt  Ltd,Payment,134.0,0.0,31050.0
+2018-07-31,Dr,Interest  on  Overdraft,Payment,135.0,0.0,4665.0
+2018-08-01,Dr,Unsecured  Kotak  Loan,Payment,136.0,0.0,75613.0
+2018-08-01,Cr,Collabera  Technologies  Private  Limited,Receipt,71.0,1913016.3,0.0
+2018-08-02,Cr,Data  Semantics  Private  Limited,Receipt,72.0,200000.0,0.0
+2018-08-03,Dr,Telephone  and  Internet  Expenses,Payment,137.0,0.0,40000.0
+2018-08-03,Cr,Tibil  Computer  Solutions  Pvt  Ltd,Receipt,73.0,58529.0,0.0
+2018-08-04,Dr,General  Drawings,Payment,138.0,0.0,48000.0
+2018-08-04,Dr,TDS  on  Salary  (192),Payment,139.0,0.0,111575.0
+2018-08-04,Dr,Subscription  Charges,Payment,140.0,0.0,800.0
+2018-08-06,Dr,Sridhar    New  Office  Rent,Payment,141.0,0.0,115500.0
+2018-08-06,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,142.0,0.0,59243.0
+2018-08-06,Dr,Apartment  EMI,Payment,143.0,0.0,25000.0
+2018-08-06,Dr,Office  Expenses,Payment,144.0,0.0,5000.0
+2018-08-07,Dr,Travelling  Expenses,Payment,145.0,0.0,110911.0
+2018-08-07,Dr,Electricity  /  Water  &  Utility  Charges,Payment,146.0,0.0,5344.0
+2018-08-08,Dr,Telephone  and  Internet  Expenses,Payment,147.0,0.0,1000.0
+2018-08-09,Dr,Rates  &  Taxes,Payment,148.0,0.0,2124.0
+2018-08-10,Cr,Millennium  Info  Tech  Inc,Receipt,74.0,473680.0,516.06
+2018-08-11,Dr,Travelling  Expenses,Payment,149.0,0.0,133883.0
+2018-08-13,Dr,Salary  Payable,Payment,150.0,0.0,2687451.0
+2018-08-13,Dr,Employee  Contribution  to  Provident  Fund,Payment,151.0,0.0,347399.0
+2018-08-13,Dr,Employee  Contribution  to  ESI,Payment,152.0,0.0,50443.0
+2018-08-13,Dr,Credit  Card  Payout,Payment,153.0,0.0,25000.0
+2018-08-13,Dr,Office  Expenses,Payment,154.0,0.0,25000.0
+2018-08-13,Dr,Travelling  Expenses,Payment,155.0,0.0,12100.0
+2018-08-14,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,75.0,419759.88,0.0
+2018-08-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,156.0,0.0,8538.0
+2018-08-15,Dr,Telephone  and  Internet  Expenses,Payment,157.0,0.0,1380.99
+2018-08-16,Dr,Electronic  Cash  Ledger,Payment,158.0,0.0,500000.0
+2018-08-16,Dr,Samruddhi  Facility  Management  &  Services,Payment,159.0,0.0,33123.0
+2018-08-16,Dr,Computers,Payment,160.0,0.0,45000.0
+2018-08-17,Cr,Disys  India  Pvt.Ltd,Receipt,76.0,67355.0,0.0
+2018-08-17,Dr,Electronic  Cash  Ledger,Payment,161.0,0.0,278825.0
+2018-08-18,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,77.0,992729.0,0.0
+2018-08-20,Dr,General  Drawings,Payment,162.0,0.0,45000.0
+2018-08-20,Dr,Salary  Payable,Payment,163.0,0.0,3672.0
+2018-08-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,164.0,0.0,3730.0
+2018-08-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,165.0,0.0,20000.0
+2018-08-20,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,78.0,57420.06,0.0
+2018-08-24,Cr,The  Math  Company  Pvt  Ltd,Receipt,79.0,345949.0,0.0
+2018-08-24,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,80.0,152280.0,0.0
+2018-08-27,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,81.0,94064.46,0.0
+2018-08-27,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,82.0,141121.68,0.0
+2018-08-27,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,83.0,163003.0,0.0
+2018-08-30,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,84.0,389735.88,0.0
+2018-08-31,Cr,Collabera  Technologies  Private  Limited,Receipt,85.0,37026.9,0.0
+2018-08-31,Dr,General  Drawings,Payment,166.0,0.0,15000.0
+2018-08-31,Dr,Credit  Card  Payout,Payment,167.0,0.0,45000.0
+2018-08-31,Dr,General  Drawings,Payment,168.0,0.0,10000.0
+2018-08-31,Dr,Interest  on  Overdraft,Payment,169.0,0.0,61.0
+2018-09-01,Dr,Unsecured  Kotak  Loan,Payment,170.0,0.0,75613.0
+2018-09-01,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,86.0,129600.0,0.0
+2018-09-03,Dr,Salary  Payable,Payment,171.0,0.0,2636278.0
+2018-09-03,Dr,Capital  First  Ltd,Payment,172.0,0.0,55314.0
+2018-09-04,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,87.0,521715.0,0.0
+2018-09-04,Dr,Naukri.Com,Payment,173.0,0.0,29700.0
+2018-09-04,Dr,Naukri.Com,Payment,174.0,0.0,9900.0
+2018-09-04,Dr,Aurah  V  Solutions,Payment,175.0,0.0,59400.0
+2018-09-06,Dr,Sridhar    New  Office  Rent,Payment,176.0,0.0,115500.0
+2018-09-06,Dr,TDS  on  Salary  (192),Payment,177.0,0.0,97403.0
+2018-09-06,Dr,Apartment  EMI,Payment,178.0,0.0,25000.0
+2018-09-06,Dr,Apartment  EMI,Payment,179.0,0.0,18322.0
+2018-09-06,Cr,Bank  Charges,Receipt,88.0,500.0,0.0
+2018-09-06,Dr,General  Drawings,Payment,180.0,0.0,5000.0
+2018-09-07,Dr,Office  Expenses,Payment,181.0,0.0,1000.0
+2018-09-08,Dr,Subscription  Charges,Payment,182.0,0.0,600.0
+2018-09-08,Dr,General  Drawings,Payment,183.0,0.0,8000.0
+2018-09-09,Dr,Computers,Payment,184.0,0.0,53478.0
+2018-09-10,Dr,Tuition  Fee,Payment,185.0,0.0,15500.0
+2018-09-10,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,89.0,81000.0,0.0
+2018-09-11,Dr,Telephone  and  Internet  Expenses,Payment,186.0,0.0,1120.0
+2018-09-11,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,187.0,0.0,59243.0
+2018-09-11,Dr,Shankar  Radhakrishnan,Payment,188.0,0.0,90000.0
+2018-09-11,Dr,Utkrusht  Software  Technologies  Pvt  Ltd,Payment,189.0,0.0,35640.0
+2018-09-11,Cr,Covalence  Technologies  -  1ZA,Receipt,90.0,178200.0,0.0
+2018-09-11,Dr,Office  Expenses,Payment,190.0,0.0,2000.0
+2018-09-11,Dr,General  Drawings,Payment,191.0,0.0,10000.0
+2018-09-12,Dr,Salary  Payable,Payment,192.0,0.0,3427.0
+2018-09-12,Cr,Collabera  Technologies  Private  Limited,Receipt,91.0,2073374.24,0.0
+2018-09-12,Dr,Employee  Contribution  to  Provident  Fund,Payment,193.0,0.0,369711.0
+2018-09-13,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,92.0,38323.12,0.0
+2018-09-14,Cr,Disys  India  Pvt.Ltd,Receipt,93.0,60387.0,0.0
+2018-09-14,Dr,Employee  Contribution  to  ESI,Payment,194.0,0.0,60408.0
+2018-09-14,Dr,General  Drawings,Payment,195.0,0.0,40000.0
+2018-09-14,Cr,RPS  Consulting  Private  Limited,Receipt,94.0,126810.0,0.0
+2018-09-14,Cr,Tibil  Computer  Solutions  Pvt  Ltd,Receipt,95.0,43200.0,0.0
+2018-09-15,Dr,Telephone  and  Internet  Expenses,Payment,196.0,0.0,1249.62
+2018-09-15,Dr,General  Drawings,Payment,197.0,0.0,60000.0
+2018-09-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,198.0,0.0,8358.0
+2018-09-17,Dr,General  Drawings,Payment,199.0,0.0,100000.0
+2018-09-18,Dr,General  Drawings,Payment,200.0,0.0,67000.0
+2018-09-18,Dr,Electronic  Cash  Ledger,Payment,201.0,0.0,500000.0
+2018-09-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,202.0,0.0,3664.0
+2018-09-19,Dr,Telephone  and  Internet  Expenses,Payment,203.0,0.0,21193.0
+2018-09-19,Dr,Petty  Cash  -  Expenses,Payment,204.0,0.0,20000.0
+2018-09-19,Dr,Electronic  Cash  Ledger,Payment,205.0,0.0,219384.0
+2018-09-21,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,96.0,94064.46,0.0
+2018-09-23,Cr,The  Math  Company  Pvt  Ltd,Receipt,97.0,141300.0,0.0
+2018-09-25,Dr,General  Drawings,Payment,206.0,0.0,5000.0
+2018-09-25,Dr,Samruddhi  Facility  Management  &  Services,Payment,207.0,0.0,33123.0
+2018-09-25,Dr,GM  &  Associates,Payment,208.0,0.0,20000.0
+2018-09-26,Dr,Office  Expenses,Payment,209.0,0.0,2000.0
+2018-09-26,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,98.0,59400.0,0.0
+2018-09-27,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,99.0,368244.06,0.0
+2018-09-28,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,100.0,152419.0,0.0
+2018-09-28,Dr,Foreign  Exchange  Gain/Loss,Payment,210.0,0.0,879.18
+2018-09-28,Cr,Millennium  Info  Tech  Inc,Receipt,101.0,876865.78,0.0
+2018-09-28,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,102.0,32574.0,0.0
+2018-09-28,Dr,Travelling  Expenses,Payment,211.0,0.0,3257.0
+2018-09-29,Dr,Travelling  Expenses,Payment,212.0,0.0,4124.0
+2018-09-30,Dr,Office  Expenses,Payment,213.0,0.0,2203.0
+2018-09-30,Dr,Interest  on  Overdraft,Payment,214.0,0.0,1426.0
+2018-10-01,Dr,General  Drawings,Payment,215.0,0.0,20000.0
+2018-10-01,Dr,General  Drawings,Payment,216.0,0.0,16000.0
+2018-10-01,Dr,Credit  Card  Payout,Payment,217.0,0.0,50000.0
+2018-10-01,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,103.0,195409.3,0.0
+2018-10-01,Cr,Office  Expenses,Receipt,104.0,15.0,0.0
+2018-10-02,Dr,Subscription  Charges,Payment,218.0,0.0,700.0
+2018-10-03,Dr,Capital  First  Ltd,Payment,219.0,0.0,55314.0
+2018-10-04,Cr,Collabera  Technologies  Private  Limited,Receipt,105.0,53464.9,0.0
+2018-10-04,Dr,Salary  Payable,Payment,220.0,0.0,4203.0
+2018-10-04,Dr,Salary  Payable,Payment,221.0,0.0,27200.0
+2018-10-04,Dr,Salary  Payable,Payment,222.0,0.0,20794.0
+2018-10-04,Dr,Salary  Payable,Payment,223.0,0.0,13024.0
+2018-10-04,Dr,Salary  Payable,Payment,224.0,0.0,36560.0
+2018-10-04,Dr,Salary  Payable,Payment,225.0,0.0,41200.0
+2018-10-04,Dr,Salary  Payable,Payment,226.0,0.0,44285.0
+2018-10-04,Dr,Salary  Payable,Payment,227.0,0.0,26200.0
+2018-10-04,Dr,Salary  Payable,Payment,228.0,0.0,24278.0
+2018-10-04,Dr,Salary  Payable,Payment,229.0,0.0,37148.0
+2018-10-04,Dr,Salary  Payable,Payment,230.0,0.0,37200.0
+2018-10-04,Dr,Salary  Payable,Payment,231.0,0.0,31138.0
+2018-10-04,Dr,Salary  Payable,Payment,232.0,0.0,36200.0
+2018-10-04,Dr,Salary  Payable,Payment,233.0,0.0,20794.0
+2018-10-04,Dr,Salary  Payable,Payment,234.0,0.0,16923.0
+2018-10-04,Dr,Salary  Payable,Payment,235.0,0.0,21200.0
+2018-10-04,Dr,Salary  Payable,Payment,236.0,0.0,12448.0
+2018-10-04,Dr,Salary  Payable,Payment,237.0,0.0,20794.0
+2018-10-04,Dr,Salary  Payable,Payment,238.0,0.0,26200.0
+2018-10-04,Dr,Salary  Payable,Payment,239.0,0.0,20794.0
+2018-10-04,Dr,Salary  Payable,Payment,240.0,0.0,14689.0
+2018-10-04,Dr,Salary  Payable,Payment,241.0,0.0,22450.0
+2018-10-04,Dr,Salary  Payable,Payment,242.0,0.0,12448.0
+2018-10-04,Dr,Salary  Payable,Payment,243.0,0.0,35870.0
+2018-10-04,Dr,Salary  Payable,Payment,244.0,0.0,41166.0
+2018-10-04,Dr,Salary  Payable,Payment,245.0,0.0,20794.0
+2018-10-04,Dr,Salary  Payable,Payment,246.0,0.0,21200.0
+2018-10-04,Dr,Salary  Payable,Payment,247.0,0.0,16923.0
+2018-10-04,Dr,Salary  Payable,Payment,248.0,0.0,20794.0
+2018-10-04,Dr,Salary  Payable,Payment,249.0,0.0,12448.0
+2018-10-04,Dr,Salary  Payable,Payment,250.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,251.0,0.0,43172.0
+2018-10-04,Dr,Salary  Payable,Payment,252.0,0.0,17905.0
+2018-10-04,Dr,Salary  Payable,Payment,253.0,0.0,36200.0
+2018-10-04,Dr,Salary  Payable,Payment,254.0,0.0,36119.0
+2018-10-04,Dr,Salary  Payable,Payment,255.0,0.0,41200.0
+2018-10-04,Dr,Salary  Payable,Payment,256.0,0.0,5380.0
+2018-10-04,Dr,Salary  Payable,Payment,257.0,0.0,20794.0
+2018-10-04,Dr,Salary  Payable,Payment,258.0,0.0,16923.0
+2018-10-04,Dr,Salary  Payable,Payment,259.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,260.0,0.0,15940.0
+2018-10-04,Dr,Salary  Payable,Payment,261.0,0.0,38700.0
+2018-10-04,Dr,Salary  Payable,Payment,262.0,0.0,12188.0
+2018-10-04,Dr,Salary  Payable,Payment,263.0,0.0,14426.0
+2018-10-04,Dr,Salary  Payable,Payment,264.0,0.0,16929.0
+2018-10-04,Dr,Salary  Payable,Payment,265.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,266.0,0.0,9114.0
+2018-10-04,Dr,Salary  Payable,Payment,267.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,268.0,0.0,20426.0
+2018-10-04,Dr,Salary  Payable,Payment,269.0,0.0,16923.0
+2018-10-04,Dr,Salary  Payable,Payment,270.0,0.0,15940.0
+2018-10-04,Dr,Salary  Payable,Payment,271.0,0.0,71890.0
+2018-10-04,Dr,Salary  Payable,Payment,272.0,0.0,16923.0
+2018-10-04,Dr,Salary  Payable,Payment,273.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,274.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,275.0,0.0,24724.0
+2018-10-04,Dr,Salary  Payable,Payment,276.0,0.0,41113.0
+2018-10-04,Dr,Salary  Payable,Payment,277.0,0.0,37762.0
+2018-10-04,Dr,Salary  Payable,Payment,278.0,0.0,13916.0
+2018-10-04,Dr,Salary  Payable,Payment,279.0,0.0,15940.0
+2018-10-04,Dr,Salary  Payable,Payment,280.0,0.0,50802.0
+2018-10-04,Dr,Salary  Payable,Payment,281.0,0.0,51398.0
+2018-10-04,Dr,Salary  Payable,Payment,282.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,283.0,0.0,18374.0
+2018-10-04,Dr,Salary  Payable,Payment,284.0,0.0,12708.0
+2018-10-04,Dr,Salary  Payable,Payment,285.0,0.0,42534.0
+2018-10-04,Dr,Salary  Payable,Payment,286.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,287.0,0.0,90998.0
+2018-10-04,Dr,Salary  Payable,Payment,288.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,289.0,0.0,22200.0
+2018-10-04,Dr,Salary  Payable,Payment,290.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,291.0,0.0,21200.0
+2018-10-04,Dr,Salary  Payable,Payment,292.0,0.0,7590.0
+2018-10-04,Dr,Salary  Payable,Payment,293.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,294.0,0.0,76082.0
+2018-10-04,Dr,Salary  Payable,Payment,295.0,0.0,3795.0
+2018-10-04,Dr,Salary  Payable,Payment,296.0,0.0,21200.0
+2018-10-04,Dr,Salary  Payable,Payment,297.0,0.0,27200.0
+2018-10-04,Dr,Salary  Payable,Payment,298.0,0.0,21200.0
+2018-10-04,Dr,Salary  Payable,Payment,299.0,0.0,15940.0
+2018-10-04,Dr,Salary  Payable,Payment,300.0,0.0,31200.0
+2018-10-04,Dr,Salary  Payable,Payment,301.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,302.0,0.0,12299.0
+2018-10-04,Dr,Salary  Payable,Payment,303.0,0.0,7083.0
+2018-10-04,Dr,Salary  Payable,Payment,304.0,0.0,46200.0
+2018-10-04,Dr,Salary  Payable,Payment,305.0,0.0,45016.0
+2018-10-04,Dr,Salary  Payable,Payment,306.0,0.0,7337.0
+2018-10-04,Dr,Salary  Payable,Payment,307.0,0.0,7590.0
+2018-10-04,Dr,Salary  Payable,Payment,308.0,0.0,7083.0
+2018-10-04,Dr,Salary  Payable,Payment,309.0,0.0,7590.0
+2018-10-04,Dr,Salary  Payable,Payment,310.0,0.0,7590.0
+2018-10-04,Dr,Salary  Payable,Payment,311.0,0.0,18829.0
+2018-10-04,Dr,Salary  Payable,Payment,312.0,0.0,85025.0
+2018-10-04,Dr,Salary  Payable,Payment,313.0,0.0,32033.0
+2018-10-04,Dr,Salary  Payable,Payment,314.0,0.0,100562.0
+2018-10-04,Dr,Salary  Payable,Payment,315.0,0.0,28200.0
+2018-10-04,Dr,Salary  Payable,Payment,316.0,0.0,6071.0
+2018-10-04,Dr,Salary  Payable,Payment,317.0,0.0,6831.0
+2018-10-04,Dr,Salary  Payable,Payment,318.0,0.0,7337.0
+2018-10-04,Dr,Salary  Payable,Payment,319.0,0.0,7590.0
+2018-10-04,Dr,Salary  Payable,Payment,320.0,0.0,38700.0
+2018-10-04,Dr,Salary  Payable,Payment,321.0,0.0,22440.0
+2018-10-04,Dr,Salary  Payable,Payment,322.0,0.0,7590.0
+2018-10-04,Dr,Salary  Payable,Payment,323.0,0.0,5188.0
+2018-10-04,Dr,Salary  Payable,Payment,324.0,0.0,13288.0
+2018-10-04,Dr,Salary  Payable,Payment,325.0,0.0,7590.0
+2018-10-04,Dr,Salary  Payable,Payment,326.0,0.0,6324.0
+2018-10-04,Dr,Salary  Payable,Payment,327.0,0.0,5566.0
+2018-10-04,Dr,Salary  Payable,Payment,328.0,0.0,3542.0
+2018-10-04,Dr,Salary  Payable,Payment,329.0,0.0,5818.0
+2018-10-04,Dr,Salary  Payable,Payment,330.0,0.0,5818.0
+2018-10-04,Dr,Salary  Payable,Payment,331.0,0.0,3932.0
+2018-10-04,Dr,Salary  Payable,Payment,332.0,0.0,47512.0
+2018-10-05,Dr,Sridhar    New  Office  Rent,Payment,333.0,0.0,115500.0
+2018-10-05,Dr,Petty  Cash  -  Expenses,Payment,334.0,0.0,20000.0
+2018-10-05,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,106.0,43200.0,0.0
+2018-10-05,Dr,General  Drawings,Payment,335.0,0.0,10000.0
+2018-10-06,Dr,TDS  on  Salary  (192),Payment,336.0,0.0,83762.0
+2018-10-06,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,107.0,113400.0,0.0
+2018-10-08,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,108.0,37777.22,0.0
+2018-10-08,Dr,Shankar  Radhakrishnan,Payment,337.0,0.0,90000.0
+2018-10-08,Dr,Petty  Cash  -  Expenses,Payment,338.0,0.0,45000.0
+2018-10-08,Cr,Salary  Payable,Receipt,109.0,12299.0,0.0
+2018-10-10,Cr,Collabera  Technologies  Private  Limited,Receipt,110.0,1761395.2,0.0
+2018-10-10,Dr,Bank  Charges,Payment,339.0,0.0,454.28
+2018-10-10,Cr,ALTELIJENT,Receipt,111.0,404753.06,0.0
+2018-10-10,Dr,Credit  Card  Payout,Payment,340.0,0.0,65000.0
+2018-10-11,Cr,The  Math  Company  Pvt  Ltd,Receipt,112.0,243000.0,0.0
+2018-10-11,Cr,Tibil  Computer  Solutions  Pvt  Ltd,Receipt,113.0,43200.0,0.0
+2018-10-12,Dr,Employers  Contribution  to  PF  (Inc  Admin  Charges),Payment,341.0,0.0,203.0
+2018-10-12,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,114.0,240735.54,0.0
+2018-10-12,Dr,Employers  Contribution  to  PF  (Inc  Admin  Charges),Payment,342.0,0.0,12970.0
+2018-10-12,Dr,Employee  Contribution  to  Provident  Fund,Payment,343.0,0.0,372959.0
+2018-10-12,Cr,Collabera  Technologies  Private  Limited,Receipt,115.0,203726.9,0.0
+2018-10-15,Dr,Telephone  and  Internet  Expenses,Payment,344.0,0.0,1249.62
+2018-10-15,Dr,Bank  Charges,Payment,345.0,0.0,1.0
+2018-10-15,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,116.0,113400.0,0.0
+2018-10-15,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,117.0,44280.0,0.0
+2018-10-15,Dr,Electronic  Cash  Ledger,Payment,346.0,0.0,500000.0
+2018-10-15,Dr,Employee  Contribution  to  ESI,Payment,347.0,0.0,61016.0
+2018-10-15,Dr,General  Drawings,Payment,348.0,0.0,15923.0
+2018-10-16,Dr,Petty  Cash  -  Expenses,Payment,349.0,0.0,25000.0
+2018-10-16,Dr,Professional  Charges,Payment,350.0,0.0,10000.0
+2018-10-16,Dr,General  Drawings,Payment,351.0,0.0,3400.0
+2018-10-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,352.0,0.0,8254.0
+2018-10-16,Dr,Salary  Payable,Payment,353.0,0.0,12299.0
+2018-10-16,Dr,Dawn  Associates,Payment,354.0,0.0,9180.0
+2018-10-16,Dr,March31st  Consulting  LLP,Payment,355.0,0.0,175500.0
+2018-10-16,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,356.0,0.0,59243.0
+2018-10-16,Dr,Electronic  Cash  Ledger,Payment,357.0,0.0,208149.0
+2018-10-17,Cr,Disys  India  Pvt.Ltd,Receipt,118.0,72000.0,0.0
+2018-10-18,Dr,Electricity  /  Water  &  Utility  Charges,Payment,358.0,0.0,19291.0
+2018-10-19,Dr,General  Drawings,Payment,359.0,0.0,5000.0
+2018-10-19,Dr,General  Drawings,Payment,360.0,0.0,5000.0
+2018-10-20,Dr,Anusree  Enterprises,Payment,361.0,0.0,13870.0
+2018-10-20,Dr,Telephone  and  Internet  Expenses,Payment,362.0,0.0,1200.0
+2018-10-21,Dr,Electricity  /  Water  &  Utility  Charges,Payment,363.0,0.0,3125.0
+2018-10-22,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,119.0,142664.0,0.0
+2018-10-22,Cr,General  Drawings,Receipt,120.0,73300.0,0.0
+2018-10-22,Dr,Adamma  Technologies  Ltd,Payment,364.0,0.0,17712.0
+2018-10-22,Dr,General  Drawings,Payment,365.0,0.0,73300.0
+2018-10-23,Cr,Zensar  Technologies  Ltd,Receipt,121.0,49500.0,0.0
+2018-10-23,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,122.0,92340.0,0.0
+2018-10-24,Dr,General  Drawings,Payment,366.0,0.0,58120.06
+2018-10-24,Cr,General  Drawings,Receipt,123.0,73300.0,0.0
+2018-10-24,Dr,Credit  Card  Payout,Payment,367.0,0.0,30000.0
+2018-10-24,Dr,General  Drawings,Payment,368.0,0.0,73300.0
+2018-10-25,Dr,Samruddhi  Facility  Management  &  Services,Payment,369.0,0.0,33123.0
+2018-10-25,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,124.0,1033063.0,0.0
+2018-10-26,Cr,Millennium  Info  Tech  Inc,Receipt,125.0,346407.36,0.0
+2018-10-26,Dr,Foreign  Exchange  Gain/Loss,Payment,370.0,0.0,401.77
+2018-10-29,Dr,Travelling  Expenses,Payment,371.0,0.0,2000.0
+2018-10-29,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,126.0,331315.32,0.0
+2018-10-30,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,127.0,57483.68,0.0
+2018-10-30,Dr,General  Drawings,Payment,372.0,0.0,17973.0
+2018-10-30,Dr,Office  Expenses,Payment,373.0,0.0,650.0
+2018-10-30,Cr,Tibil  Computer  Solutions  Pvt  Ltd,Receipt,128.0,43200.0,0.0
+2018-10-31,Dr,Interest  on  Overdraft,Payment,374.0,0.0,1273.0
+2018-10-31,Cr,RPS  Consulting  Private  Limited,Receipt,129.0,47149.0,0.0
+2018-10-31,Dr,Petty  Cash  -  Expenses,Payment,375.0,0.0,48000.0
+2018-10-31,Dr,Credit  Card  Payout,Payment,376.0,0.0,35000.0
+2018-10-31,Dr,Monster.Com  India  Pvt  Ltd,Payment,377.0,0.0,31050.0
+2018-10-31,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,130.0,504450.0,0.0
+2018-11-02,Cr,Bank  Charges,Receipt,131.0,1.0,0.0
+2018-11-02,Dr,Capital  First  Ltd,Payment,378.0,0.0,55314.0
+2018-11-02,Dr,Salary  Payable,Payment,379.0,0.0,27200.0
+2018-11-02,Dr,Salary  Payable,Payment,380.0,0.0,7590.0
+2018-11-02,Dr,Salary  Payable,Payment,381.0,0.0,14689.0
+2018-11-02,Dr,Salary  Payable,Payment,382.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,383.0,0.0,36200.0
+2018-11-02,Dr,Salary  Payable,Payment,384.0,0.0,8288.0
+2018-11-02,Dr,Salary  Payable,Payment,385.0,0.0,19200.0
+2018-11-02,Dr,Salary  Payable,Payment,386.0,0.0,36105.0
+2018-11-02,Dr,Salary  Payable,Payment,387.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,388.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,389.0,0.0,41261.0
+2018-11-02,Dr,Salary  Payable,Payment,390.0,0.0,19200.0
+2018-11-02,Dr,Salary  Payable,Payment,391.0,0.0,27200.0
+2018-11-02,Dr,Salary  Payable,Payment,392.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,393.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,394.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,395.0,0.0,9301.0
+2018-11-02,Dr,Salary  Payable,Payment,396.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,397.0,0.0,38714.0
+2018-11-02,Dr,Salary  Payable,Payment,398.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,399.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,400.0,0.0,19200.0
+2018-11-02,Dr,Salary  Payable,Payment,401.0,0.0,36200.0
+2018-11-02,Dr,Salary  Payable,Payment,402.0,0.0,17516.0
+2018-11-02,Dr,Salary  Payable,Payment,403.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,404.0,0.0,41165.0
+2018-11-02,Dr,Salary  Payable,Payment,405.0,0.0,37147.0
+2018-11-02,Dr,Salary  Payable,Payment,406.0,0.0,10221.0
+2018-11-02,Dr,Salary  Payable,Payment,407.0,0.0,26200.0
+2018-11-02,Dr,Salary  Payable,Payment,408.0,0.0,91685.0
+2018-11-02,Dr,Salary  Payable,Payment,409.0,0.0,31136.0
+2018-11-02,Dr,Salary  Payable,Payment,410.0,0.0,14426.0
+2018-11-02,Dr,Salary  Payable,Payment,411.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,412.0,0.0,26200.0
+2018-11-02,Dr,Salary  Payable,Payment,413.0,0.0,90996.0
+2018-11-02,Dr,Salary  Payable,Payment,414.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,415.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,416.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,417.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,418.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,419.0,0.0,37200.0
+2018-11-02,Dr,Salary  Payable,Payment,420.0,0.0,27475.0
+2018-11-02,Dr,Salary  Payable,Payment,421.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,422.0,0.0,10221.0
+2018-11-02,Dr,Salary  Payable,Payment,423.0,0.0,46082.0
+2018-11-02,Dr,Salary  Payable,Payment,424.0,0.0,43171.0
+2018-11-02,Dr,Salary  Payable,Payment,425.0,0.0,14426.0
+2018-11-02,Dr,Salary  Payable,Payment,426.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,427.0,0.0,15940.0
+2018-11-02,Dr,Salary  Payable,Payment,428.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,429.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,430.0,0.0,22450.0
+2018-11-02,Dr,Salary  Payable,Payment,431.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,432.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,433.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,434.0,0.0,21200.0
+2018-11-02,Dr,Salary  Payable,Payment,435.0,0.0,15940.0
+2018-11-02,Dr,Salary  Payable,Payment,436.0,0.0,20200.0
+2018-11-02,Dr,Salary  Payable,Payment,437.0,0.0,25200.0
+2018-11-02,Dr,Salary  Payable,Payment,438.0,0.0,41200.0
+2018-11-02,Dr,Salary  Payable,Payment,439.0,0.0,30039.0
+2018-11-02,Dr,Salary  Payable,Payment,440.0,0.0,31200.0
+2018-11-02,Dr,Salary  Payable,Payment,441.0,0.0,38700.0
+2018-11-02,Dr,Salary  Payable,Payment,442.0,0.0,71888.0
+2018-11-02,Dr,Salary  Payable,Payment,443.0,0.0,45748.0
+2018-11-02,Dr,Salary  Payable,Payment,444.0,0.0,55444.0
+2018-11-02,Dr,Salary  Payable,Payment,445.0,0.0,41112.0
+2018-11-02,Dr,Salary  Payable,Payment,446.0,0.0,22200.0
+2018-11-02,Dr,Salary  Payable,Payment,447.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,448.0,0.0,50801.0
+2018-11-02,Dr,Salary  Payable,Payment,449.0,0.0,11395.0
+2018-11-02,Dr,Salary  Payable,Payment,450.0,0.0,76081.0
+2018-11-02,Dr,Salary  Payable,Payment,451.0,0.0,38700.0
+2018-11-02,Dr,Salary  Payable,Payment,452.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,453.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,454.0,0.0,32033.0
+2018-11-02,Dr,Salary  Payable,Payment,455.0,0.0,16923.0
+2018-11-02,Dr,Salary  Payable,Payment,456.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,457.0,0.0,46200.0
+2018-11-02,Dr,Salary  Payable,Payment,458.0,0.0,7590.0
+2018-11-02,Dr,Salary  Payable,Payment,459.0,0.0,7099.0
+2018-11-02,Dr,Salary  Payable,Payment,460.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,461.0,0.0,12299.0
+2018-11-02,Dr,Salary  Payable,Payment,462.0,0.0,10634.0
+2018-11-02,Dr,Salary  Payable,Payment,463.0,0.0,7590.0
+2018-11-02,Dr,Salary  Payable,Payment,464.0,0.0,45015.0
+2018-11-02,Dr,Salary  Payable,Payment,465.0,0.0,15940.0
+2018-11-02,Dr,Salary  Payable,Payment,466.0,0.0,98473.0
+2018-11-02,Dr,Salary  Payable,Payment,467.0,0.0,10634.0
+2018-11-02,Dr,Salary  Payable,Payment,468.0,0.0,26200.0
+2018-11-02,Dr,Salary  Payable,Payment,469.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,470.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,471.0,0.0,7590.0
+2018-11-02,Dr,Salary  Payable,Payment,472.0,0.0,51057.0
+2018-11-02,Dr,Salary  Payable,Payment,473.0,0.0,19533.0
+2018-11-02,Dr,Salary  Payable,Payment,474.0,0.0,17980.0
+2018-11-02,Dr,Salary  Payable,Payment,475.0,0.0,7414.0
+2018-11-02,Dr,Salary  Payable,Payment,476.0,0.0,7344.0
+2018-11-02,Dr,Salary  Payable,Payment,477.0,0.0,108314.0
+2018-11-02,Dr,Salary  Payable,Payment,478.0,0.0,23726.0
+2018-11-02,Dr,Salary  Payable,Payment,479.0,0.0,3672.0
+2018-11-02,Dr,Salary  Payable,Payment,480.0,0.0,15940.0
+2018-11-02,Dr,Salary  Payable,Payment,481.0,0.0,13288.0
+2018-11-02,Dr,Salary  Payable,Payment,482.0,0.0,19200.0
+2018-11-02,Cr,Travelling  Expenses,Receipt,132.0,15.0,0.0
+2018-11-03,Cr,Travelling  Expenses,Receipt,133.0,15.0,0.0
+2018-11-05,Dr,Travelling  Expenses,Payment,483.0,0.0,2000.0
+2018-11-05,Dr,General  Drawings,Payment,484.0,0.0,248312.0
+2018-11-05,Dr,Rental  Deposit,Payment,485.0,0.0,420000.0
+2018-11-05,Dr,Sridhar    New  Office  Rent,Payment,486.0,0.0,115500.0
+2018-11-06,Dr,TDS  U/s  194C,Payment,487.0,0.0,120578.0
+2018-11-06,Dr,Mohammad  Moin,Payment,488.0,0.0,48600.0
+2018-11-06,Dr,Travelling  Expenses,Payment,489.0,0.0,3137.0
+2018-11-07,Cr,Collabera  Technologies  Private  Limited,Receipt,134.0,1914604.0,0.0
+2018-11-07,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,135.0,457019.88,0.0
+2018-11-12,Dr,Shankar  Radhakrishnan,Payment,490.0,0.0,108000.0
+2018-11-12,Dr,Apartment  EMI,Payment,491.0,0.0,45000.0
+2018-11-12,Dr,General  Drawings,Payment,492.0,0.0,25000.0
+2018-11-12,Dr,Telephone  and  Internet  Expenses,Payment,493.0,0.0,1200.0
+2018-11-12,Cr,Salary  Payable,Receipt,136.0,3125.0,0.0
+2018-11-13,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,137.0,113400.0,0.0
+2018-11-13,Dr,Salary  Payable,Payment,494.0,0.0,5919.0
+2018-11-13,Dr,General  Drawings,Payment,495.0,0.0,1000.0
+2018-11-15,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,496.0,0.0,138799.0
+2018-11-15,Dr,Employee  Contribution  to  Provident  Fund,Payment,497.0,0.0,365944.0
+2018-11-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,498.0,0.0,7244.0
+2018-11-15,Dr,Employee  Contribution  to  ESI,Payment,499.0,0.0,41822.0
+2018-11-15,Dr,General  Drawings,Payment,500.0,0.0,650.0
+2018-11-16,Dr,Telephone  and  Internet  Expenses,Payment,501.0,0.0,1249.62
+2018-11-16,Dr,Capital  First  Ltd,Payment,502.0,0.0,100000.0
+2018-11-16,Dr,General  Drawings,Payment,503.0,0.0,45000.0
+2018-11-17,Cr,The  Math  Company  Pvt  Ltd,Receipt,138.0,243000.0,0.0
+2018-11-19,Dr,Electronic  Cash  Ledger,Payment,504.0,0.0,500000.0
+2018-11-19,Dr,Electronic  Cash  Ledger,Payment,505.0,0.0,267685.0
+2018-11-19,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,139.0,613620.0,0.0
+2018-11-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,506.0,0.0,6112.0
+2018-11-20,Cr,Data  Semantics  Private  Limited,Receipt,140.0,200000.0,0.0
+2018-11-20,Dr,Petty  Cash  -  Expenses,Payment,507.0,0.0,35000.0
+2018-11-20,Cr,Disys  India  Pvt.Ltd,Receipt,141.0,69677.0,0.0
+2018-11-22,Cr,RPS  Consulting  Private  Limited,Receipt,142.0,124200.0,0.0
+2018-11-22,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,143.0,95631.64,0.0
+2018-11-23,Dr,Credit  Card  Payout,Payment,508.0,0.0,45000.0
+2018-11-23,Dr,Naukri.Com,Payment,509.0,0.0,29700.0
+2018-11-23,Dr,Samruddhi  Facility  Management  &  Services,Payment,510.0,0.0,39896.0
+2018-11-23,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,144.0,37777.22,0.0
+2018-11-23,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,145.0,146159.0,0.0
+2018-11-26,Dr,General  Drawings,Payment,511.0,0.0,45000.0
+2018-11-27,Dr,Office  Expenses,Payment,512.0,0.0,700.0
+2018-11-27,Cr,AXA  Business  Services  Pvt  Ltd_x000D_ 
+,Receipt,146.0,54000.0,0.0
+2018-11-28,Cr,Zensar  Technologies  Ltd,Receipt,147.0,47850.3,0.0
+2018-11-29,Dr,General  Drawings,Payment,513.0,0.0,2542.01
+2018-11-29,Cr,Collabera  Technologies  Private  Limited,Receipt,148.0,98364.04,0.0
+2018-11-30,Cr,Centurylink  Technologies  India  Pvt  Ltd,Receipt,149.0,114814.2,0.0
+2018-11-30,Dr,Bank  Charges,Payment,514.0,0.0,269.0
+2018-12-01,Dr,General  Drawings,Payment,515.0,0.0,25000.0
+2018-12-01,Dr,SP  Business  Corporation,Payment,516.0,0.0,45000.0
+2018-12-03,Dr,General  Drawings,Payment,517.0,0.0,10000.0
+2018-12-03,Dr,Electricity  /  Water  &  Utility  Charges,Payment,518.0,0.0,1451.0
+2018-12-03,Dr,Capital  First  Ltd,Payment,519.0,0.0,55314.0
+2018-12-03,Dr,Salary  Payable,Payment,520.0,0.0,41166.0
+2018-12-03,Dr,Salary  Payable,Payment,521.0,0.0,40273.0
+2018-12-03,Dr,Salary  Payable,Payment,522.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,523.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,524.0,0.0,21200.0
+2018-12-03,Dr,Salary  Payable,Payment,525.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,526.0,0.0,3795.0
+2018-12-03,Dr,Salary  Payable,Payment,527.0,0.0,14302.0
+2018-12-03,Dr,Salary  Payable,Payment,528.0,0.0,35867.0
+2018-12-03,Dr,Salary  Payable,Payment,529.0,0.0,27200.0
+2018-12-03,Dr,Salary  Payable,Payment,530.0,0.0,36200.0
+2018-12-03,Dr,Salary  Payable,Payment,531.0,0.0,29533.0
+2018-12-03,Dr,Salary  Payable,Payment,532.0,0.0,19654.0
+2018-12-03,Dr,Salary  Payable,Payment,533.0,0.0,44285.0
+2018-12-03,Dr,Salary  Payable,Payment,534.0,0.0,15994.0
+2018-12-03,Dr,Salary  Payable,Payment,535.0,0.0,46082.0
+2018-12-03,Dr,Salary  Payable,Payment,536.0,0.0,14689.0
+2018-12-03,Dr,Salary  Payable,Payment,537.0,0.0,14426.0
+2018-12-03,Dr,Salary  Payable,Payment,538.0,0.0,8561.0
+2018-12-03,Dr,Salary  Payable,Payment,539.0,0.0,35870.0
+2018-12-03,Dr,Salary  Payable,Payment,540.0,0.0,12737.0
+2018-12-03,Dr,Salary  Payable,Payment,541.0,0.0,22450.0
+2018-12-03,Dr,Salary  Payable,Payment,542.0,0.0,26200.0
+2018-12-03,Dr,Salary  Payable,Payment,543.0,0.0,19200.0
+2018-12-03,Dr,Salary  Payable,Payment,544.0,0.0,31200.0
+2018-12-03,Dr,Salary  Payable,Payment,545.0,0.0,20200.0
+2018-12-03,Dr,Salary  Payable,Payment,546.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,547.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,548.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,549.0,0.0,19200.0
+2018-12-03,Dr,Salary  Payable,Payment,550.0,0.0,38700.0
+2018-12-03,Dr,Salary  Payable,Payment,551.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,552.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,553.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,554.0,0.0,12838.0
+2018-12-03,Dr,Salary  Payable,Payment,555.0,0.0,6831.0
+2018-12-03,Dr,Salary  Payable,Payment,556.0,0.0,21200.0
+2018-12-03,Dr,Salary  Payable,Payment,557.0,0.0,19200.0
+2018-12-03,Dr,Salary  Payable,Payment,558.0,0.0,26200.0
+2018-12-03,Dr,Salary  Payable,Payment,559.0,0.0,37200.0
+2018-12-03,Dr,Salary  Payable,Payment,560.0,0.0,37148.0
+2018-12-03,Dr,Salary  Payable,Payment,561.0,0.0,41113.0
+2018-12-03,Dr,Salary  Payable,Payment,562.0,0.0,30200.0
+2018-12-03,Dr,Salary  Payable,Payment,563.0,0.0,37226.0
+2018-12-03,Dr,Salary  Payable,Payment,564.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,565.0,0.0,50803.0
+2018-12-03,Dr,Salary  Payable,Payment,566.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,567.0,0.0,41200.0
+2018-12-03,Dr,Salary  Payable,Payment,568.0,0.0,21200.0
+2018-12-03,Dr,Salary  Payable,Payment,569.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,570.0,0.0,36200.0
+2018-12-03,Dr,Salary  Payable,Payment,571.0,0.0,46200.0
+2018-12-03,Dr,Salary  Payable,Payment,572.0,0.0,26200.0
+2018-12-03,Dr,Salary  Payable,Payment,573.0,0.0,71890.0
+2018-12-03,Dr,Salary  Payable,Payment,574.0,0.0,14426.0
+2018-12-03,Dr,Salary  Payable,Payment,575.0,0.0,20794.0
+2018-12-03,Dr,Salary  Payable,Payment,576.0,0.0,4046.0
+2018-12-03,Dr,Salary  Payable,Payment,577.0,0.0,45054.0
+2018-12-03,Dr,Salary  Payable,Payment,578.0,0.0,90998.0
+2018-12-03,Dr,Salary  Payable,Payment,579.0,0.0,36200.0
+2018-12-03,Dr,Salary  Payable,Payment,580.0,0.0,21200.0
+2018-12-03,Dr,Salary  Payable,Payment,581.0,0.0,25254.0
+2018-12-03,Dr,Salary  Payable,Payment,582.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,583.0,0.0,16923.0
+2018-12-03,Dr,Salary  Payable,Payment,584.0,0.0,21200.0
+2018-12-03,Dr,Salary  Payable,Payment,585.0,0.0,21200.0
+2018-12-03,Dr,Salary  Payable,Payment,586.0,0.0,8978.0
+2018-12-03,Dr,Salary  Payable,Payment,587.0,0.0,21200.0
+2018-12-03,Dr,Salary  Payable,Payment,588.0,0.0,6338.0
+2018-12-03,Dr,Salary  Payable,Payment,589.0,0.0,16275.0
+2018-12-03,Dr,Salary  Payable,Payment,590.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,591.0,0.0,32033.0
+2018-12-03,Dr,Salary  Payable,Payment,592.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,593.0,0.0,18518.0
+2018-12-03,Dr,Salary  Payable,Payment,594.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,595.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,596.0,0.0,76082.0
+2018-12-03,Dr,Salary  Payable,Payment,597.0,0.0,45016.0
+2018-12-03,Dr,Salary  Payable,Payment,598.0,0.0,8561.0
+2018-12-03,Dr,Salary  Payable,Payment,599.0,0.0,27200.0
+2018-12-03,Dr,Salary  Payable,Payment,600.0,0.0,45749.0
+2018-12-03,Dr,Salary  Payable,Payment,601.0,0.0,98473.0
+2018-12-03,Dr,Salary  Payable,Payment,602.0,0.0,51058.0
+2018-12-03,Dr,Salary  Payable,Payment,603.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,604.0,0.0,26200.0
+2018-12-03,Dr,Salary  Payable,Payment,605.0,0.0,19533.0
+2018-12-03,Dr,Salary  Payable,Payment,606.0,0.0,7269.0
+2018-12-03,Dr,Salary  Payable,Payment,607.0,0.0,15940.0
+2018-12-03,Dr,Salary  Payable,Payment,608.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,609.0,0.0,24700.0
+2018-12-03,Dr,Salary  Payable,Payment,610.0,0.0,13288.0
+2018-12-03,Dr,Salary  Payable,Payment,611.0,0.0,15940.0
+2018-12-03,Dr,Salary  Payable,Payment,612.0,0.0,102123.0
+2018-12-03,Dr,Salary  Payable,Payment,613.0,0.0,12299.0
+2018-12-03,Dr,Salary  Payable,Payment,614.0,0.0,7083.0
+2018-12-03,Dr,Salary  Payable,Payment,615.0,0.0,6831.0
+2018-12-03,Dr,Salary  Payable,Payment,616.0,0.0,2156.0
+2018-12-03,Dr,Salary  Payable,Payment,617.0,0.0,3881.0
+2018-12-03,Dr,Salary  Payable,Payment,618.0,0.0,3881.0
+2018-12-03,Dr,Salary  Payable,Payment,619.0,0.0,3795.0
+2018-12-03,Dr,Salary  Payable,Payment,620.0,0.0,7337.0
+2018-12-03,Dr,Salary  Payable,Payment,621.0,0.0,3795.0
+2018-12-03,Dr,Salary  Payable,Payment,622.0,0.0,6455.0
+2018-12-03,Dr,Salary  Payable,Payment,623.0,0.0,9842.0
+2018-12-03,Dr,Salary  Payable,Payment,624.0,0.0,12836.0
+2018-12-03,Dr,Salary  Payable,Payment,625.0,0.0,3795.0
+2018-12-03,Dr,Salary  Payable,Payment,626.0,0.0,3795.0
+2018-12-03,Dr,Salary  Payable,Payment,627.0,0.0,3795.0
+2018-12-03,Dr,Salary  Payable,Payment,628.0,0.0,20426.0
+2018-12-03,Dr,Salary  Payable,Payment,629.0,0.0,4256.0
+2018-12-03,Dr,Salary  Payable,Payment,630.0,0.0,3795.0
+2018-12-03,Dr,Salary  Payable,Payment,631.0,0.0,30094.0
+2018-12-03,Dr,Salary  Payable,Payment,632.0,0.0,116379.0
+2018-12-03,Dr,Powercon    Engineering,Payment,633.0,0.0,42080.0
+2018-12-04,Cr,Millennium  Info  Tech  Inc,Receipt,150.0,1012879.44,0.0
+2018-12-05,Dr,Bank  Charges,Payment,634.0,0.0,992.32
+2018-12-05,Dr,Shankar  Radhakrishnan,Payment,635.0,0.0,103500.0
+2018-12-05,Dr,Travelling  Expenses,Payment,636.0,0.0,20000.0
+2018-12-05,Dr,SP  Business  Corporation,Payment,637.0,0.0,56200.0
+2018-12-05,Dr,Petty  Cash  -  Expenses,Payment,638.0,0.0,20000.0
+2018-12-05,Dr,General  Drawings,Payment,639.0,0.0,25000.0
+2018-12-05,Dr,Sridhar    New  Office  Rent,Payment,640.0,0.0,115500.0
+2018-12-06,Dr,Salary  Payable,Payment,641.0,0.0,43171.0
+2018-12-06,Dr,Salary  Payable,Payment,642.0,0.0,974.0
+2018-12-06,Dr,Salary  Payable,Payment,643.0,0.0,5000.0
+2018-12-06,Dr,Tuition  Fee,Payment,644.0,0.0,15500.0
+2018-12-06,Dr,Salary  Payable,Payment,645.0,0.0,26200.0
+2018-12-06,Dr,Salary  Payable,Payment,646.0,0.0,12838.0
+2018-12-07,Cr,Tibil  Computer  Solutions  Pvt  Ltd,Receipt,151.0,43200.0,0.0
+2018-12-07,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,152.0,170361.56,0.0
+2018-12-07,Dr,Office  Expenses,Payment,647.0,0.0,75000.0
+2018-12-07,Dr,TDS  on  Salary  (192),Payment,648.0,0.0,117805.0
+2018-12-07,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,153.0,113400.0,0.0
+2018-12-07,Dr,General  Drawings,Payment,649.0,0.0,10000.0
+2018-12-10,Dr,General  Drawings,Payment,650.0,0.0,35000.0
+2018-12-10,Cr,The  Math  Company  Pvt  Ltd,Receipt,154.0,243000.0,0.0
+2018-12-10,Dr,General  Drawings,Payment,651.0,0.0,45000.0
+2018-12-10,Dr,General  Drawings,Payment,652.0,0.0,10000.0
+2018-12-10,Dr,Salary  Payable,Payment,653.0,0.0,25000.0
+2018-12-11,Dr,General  Drawings,Payment,654.0,0.0,45000.0
+2018-12-12,Dr,Employee  Contribution  to  Provident  Fund,Payment,655.0,0.0,375474.0
+2018-12-12,Dr,Telephone  and  Internet  Expenses,Payment,656.0,0.0,900.0
+2018-12-12,Dr,Telephone  and  Internet  Expenses,Payment,657.0,0.0,1249.62
+2018-12-13,Cr,Collabera  Technologies  Private  Limited,Receipt,155.0,1624181.43,0.0
+2018-12-13,Dr,General  Drawings,Payment,658.0,0.0,20000.0
+2018-12-13,Dr,Office  Expenses,Payment,659.0,0.0,14160.0
+2018-12-13,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,660.0,0.0,81000.0
+2018-12-13,Dr,Employee  Contribution  to  ESI,Payment,661.0,0.0,42742.0
+2018-12-14,Cr,Disys  India  Pvt.Ltd,Receipt,156.0,67199.0,0.0
+2018-12-14,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,157.0,496954.74,0.0
+2018-12-14,Dr,Credit  Card  Payout,Payment,662.0,0.0,45000.0
+2018-12-14,Dr,General  Drawings,Payment,663.0,0.0,5000.0
+2018-12-14,Dr,Travelling  Expenses,Payment,664.0,0.0,22062.0
+2018-12-14,Dr,Samruddhi  Facility  Management  &  Services,Payment,665.0,0.0,39896.0
+2018-12-15,Dr,General  Drawings,Payment,666.0,0.0,26078.0
+2018-12-15,Cr,Zensar  Technologies  Ltd,Receipt,158.0,111773.7,0.0
+2018-12-15,Dr,Office  Expenses,Payment,667.0,0.0,1204.0
+2018-12-15,Dr,General  Drawings,Payment,668.0,0.0,650.0
+2018-12-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,669.0,0.0,6492.0
+2018-12-16,Dr,General  Drawings,Payment,670.0,0.0,10000.0
+2018-12-17,Dr,March31st  Consulting  LLP,Payment,671.0,0.0,500000.0
+2018-12-19,Cr,The  Math  Company  Pvt  Ltd,Receipt,159.0,93395.0,0.0
+2018-12-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,672.0,0.0,3804.0
+2018-12-19,Dr,Electricity  /  Water  &  Utility  Charges,Payment,673.0,0.0,25564.0
+2018-12-19,Cr,Zensar  Technologies  Ltd,Receipt,160.0,111150.0,0.0
+2018-12-20,Cr,Collabera  Technologies  Private  Limited,Receipt,161.0,130826.91,0.0
+2018-12-21,Dr,General  Drawings,Payment,674.0,0.0,50000.0
+2018-12-21,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,162.0,90720.0,0.0
+2018-12-21,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,163.0,1213256.0,0.0
+2018-12-23,Dr,Office  Expenses,Payment,675.0,0.0,2801.78
+2018-12-24,Cr,ALTELIJENT,Receipt,164.0,388411.18,0.0
+2018-12-24,Dr,Bank  Charges,Payment,676.0,0.0,439.57
+2018-12-24,Dr,General  Drawings,Payment,677.0,0.0,40000.0
+2018-12-24,Dr,Credit  Card  Payout,Payment,678.0,0.0,45000.0
+2018-12-24,Dr,Petty  Cash  -  Expenses,Payment,679.0,0.0,30000.0
+2018-12-24,Dr,Electricity  /  Water  &  Utility  Charges,Payment,680.0,0.0,25564.0
+2018-12-24,Dr,Telephone  and  Internet  Expenses,Payment,681.0,0.0,700.0
+2018-12-26,Dr,General  Drawings,Payment,682.0,0.0,20000.0
+2018-12-27,Cr,Collabera  Technologies  Private  Limited,Receipt,165.0,49234.48,0.0
+2018-12-27,Cr,10I  Commerce  Services  Private  Limited-ShopX,Receipt,166.0,29874.0,0.0
+2018-12-29,Cr,Other  Income,Receipt,167.0,21.01,0.0
+2018-12-29,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,168.0,147367.0,0.0
+2018-12-29,Cr,Tibil  Computer  Solutions  Pvt  Ltd,Receipt,169.0,43200.0,0.0
+2018-12-29,Cr,Electricity  /  Water  &  Utility  Charges,Receipt,170.0,25564.0,0.0
+2018-12-31,Dr,Interest  on  Overdraft,Payment,683.0,0.0,828.0
+2018-12-31,Dr,General  Drawings,Payment,684.0,0.0,226000.0
+2019-01-02,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,171.0,321824.0,0.0
+2019-01-02,Dr,General  Drawings,Payment,685.0,0.0,19000.0
+2019-01-02,Dr,Capital  First  Ltd,Payment,686.0,0.0,55314.0
+2019-01-02,Dr,Salary  Payable,Payment,687.0,0.0,36180.0
+2019-01-02,Dr,Salary  Payable,Payment,688.0,0.0,25180.0
+2019-01-02,Dr,Salary  Payable,Payment,689.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,690.0,0.0,37127.0
+2019-01-02,Dr,Salary  Payable,Payment,691.0,0.0,1637.0
+2019-01-02,Dr,Salary  Payable,Payment,692.0,0.0,14406.0
+2019-01-02,Dr,Salary  Payable,Payment,693.0,0.0,22430.0
+2019-01-02,Dr,Salary  Payable,Payment,694.0,0.0,95728.0
+2019-01-02,Dr,Salary  Payable,Payment,695.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,696.0,0.0,76061.0
+2019-01-02,Dr,Salary  Payable,Payment,697.0,0.0,45033.0
+2019-01-02,Dr,Salary  Payable,Payment,698.0,0.0,3652.0
+2019-01-02,Dr,Salary  Payable,Payment,699.0,0.0,6834.0
+2019-01-02,Dr,Salary  Payable,Payment,700.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,701.0,0.0,19513.0
+2019-01-02,Dr,Salary  Payable,Payment,702.0,0.0,12717.0
+2019-01-02,Dr,Salary  Payable,Payment,703.0,0.0,9226.0
+2019-01-02,Dr,Salary  Payable,Payment,704.0,0.0,26180.0
+2019-01-02,Dr,Salary  Payable,Payment,705.0,0.0,16903.0
+2019-01-02,Dr,Salary  Payable,Payment,706.0,0.0,36180.0
+2019-01-02,Dr,Salary  Payable,Payment,707.0,0.0,27180.0
+2019-01-02,Dr,Salary  Payable,Payment,708.0,0.0,44264.0
+2019-01-02,Dr,Salary  Payable,Payment,709.0,0.0,79684.0
+2019-01-02,Dr,Salary  Payable,Payment,710.0,0.0,55365.0
+2019-01-02,Dr,Salary  Payable,Payment,711.0,0.0,16903.0
+2019-01-02,Dr,Salary  Payable,Payment,712.0,0.0,26180.0
+2019-01-02,Dr,Salary  Payable,Payment,713.0,0.0,20774.0
+2019-01-02,Dr,Salary  Payable,Payment,714.0,0.0,26180.0
+2019-01-02,Dr,Salary  Payable,Payment,715.0,0.0,37180.0
+2019-01-02,Dr,Salary  Payable,Payment,716.0,0.0,16903.0
+2019-01-02,Dr,Salary  Payable,Payment,717.0,0.0,14406.0
+2019-01-02,Dr,Salary  Payable,Payment,718.0,0.0,47888.0
+2019-01-02,Dr,Salary  Payable,Payment,719.0,0.0,23065.0
+2019-01-02,Dr,Salary  Payable,Payment,720.0,0.0,20180.0
+2019-01-02,Dr,Salary  Payable,Payment,721.0,0.0,18809.0
+2019-01-02,Dr,Salary  Payable,Payment,722.0,0.0,38044.0
+2019-01-02,Dr,Salary  Payable,Payment,723.0,0.0,21180.0
+2019-01-02,Dr,Salary  Payable,Payment,724.0,0.0,25180.0
+2019-01-02,Dr,Salary  Payable,Payment,725.0,0.0,21180.0
+2019-01-02,Dr,Salary  Payable,Payment,726.0,0.0,21180.0
+2019-01-02,Dr,Salary  Payable,Payment,727.0,0.0,16903.0
+2019-01-02,Dr,Salary  Payable,Payment,728.0,0.0,21180.0
+2019-01-02,Dr,Salary  Payable,Payment,729.0,0.0,29513.0
+2019-01-02,Dr,Salary  Payable,Payment,730.0,0.0,16903.0
+2019-01-02,Dr,Salary  Payable,Payment,731.0,0.0,31251.0
+2019-01-02,Dr,Salary  Payable,Payment,732.0,0.0,21180.0
+2019-01-02,Dr,Salary  Payable,Payment,733.0,0.0,26180.0
+2019-01-02,Dr,Salary  Payable,Payment,734.0,0.0,116180.0
+2019-01-02,Dr,Salary  Payable,Payment,735.0,0.0,24354.0
+2019-01-02,Dr,Salary  Payable,Payment,736.0,0.0,11921.0
+2019-01-02,Dr,Salary  Payable,Payment,737.0,0.0,30180.0
+2019-01-02,Dr,Salary  Payable,Payment,738.0,0.0,17894.0
+2019-01-02,Dr,Salary  Payable,Payment,739.0,0.0,46180.0
+2019-01-02,Dr,Salary  Payable,Payment,740.0,0.0,41092.0
+2019-01-02,Dr,Salary  Payable,Payment,741.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,742.0,0.0,16903.0
+2019-01-02,Dr,Salary  Payable,Payment,743.0,0.0,31180.0
+2019-01-02,Dr,Salary  Payable,Payment,744.0,0.0,21180.0
+2019-01-02,Dr,Salary  Payable,Payment,745.0,0.0,8667.0
+2019-01-02,Dr,Salary  Payable,Payment,746.0,0.0,45727.0
+2019-01-02,Dr,Salary  Payable,Payment,747.0,0.0,16903.0
+2019-01-02,Dr,Salary  Payable,Payment,748.0,0.0,35828.0
+2019-01-02,Dr,Salary  Payable,Payment,749.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,750.0,0.0,56875.0
+2019-01-02,Dr,Salary  Payable,Payment,751.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,752.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,753.0,0.0,12832.0
+2019-01-02,Dr,Salary  Payable,Payment,754.0,0.0,38680.0
+2019-01-02,Dr,Salary  Payable,Payment,755.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,756.0,0.0,15920.0
+2019-01-02,Dr,Salary  Payable,Payment,757.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,758.0,0.0,12163.0
+2019-01-02,Dr,Salary  Payable,Payment,759.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,760.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,761.0,0.0,13955.0
+2019-01-02,Dr,Salary  Payable,Payment,762.0,0.0,19180.0
+2019-01-02,Dr,Salary  Payable,Payment,763.0,0.0,12279.0
+2019-01-02,Dr,Salary  Payable,Payment,764.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,765.0,0.0,32013.0
+2019-01-02,Dr,Salary  Payable,Payment,766.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,767.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,768.0,0.0,31180.0
+2019-01-02,Dr,Salary  Payable,Payment,769.0,0.0,13268.0
+2019-01-02,Dr,Salary  Payable,Payment,770.0,0.0,15920.0
+2019-01-02,Dr,Salary  Payable,Payment,771.0,0.0,20774.0
+2019-01-02,Dr,Salary  Payable,Payment,772.0,0.0,12717.0
+2019-01-02,Dr,Salary  Payable,Payment,773.0,0.0,116358.0
+2019-01-02,Dr,Salary  Payable,Payment,774.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,775.0,0.0,51037.0
+2019-01-02,Dr,Salary  Payable,Payment,776.0,0.0,97974.0
+2019-01-02,Dr,Salary  Payable,Payment,777.0,0.0,26180.0
+2019-01-02,Dr,Salary  Payable,Payment,778.0,0.0,16141.0
+2019-01-02,Dr,Salary  Payable,Payment,779.0,0.0,26200.0
+2019-01-02,Dr,Salary  Payable,Payment,780.0,0.0,24680.0
+2019-01-02,Dr,Salary  Payable,Payment,781.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,782.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,783.0,0.0,51180.0
+2019-01-02,Dr,Salary  Payable,Payment,784.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,785.0,0.0,19180.0
+2019-01-02,Dr,Salary  Payable,Payment,786.0,0.0,26180.0
+2019-01-02,Dr,Salary  Payable,Payment,787.0,0.0,7570.0
+2019-01-02,Dr,Salary  Payable,Payment,788.0,0.0,12082.0
+2019-01-02,Dr,Salary  Payable,Payment,789.0,0.0,7079.0
+2019-01-02,Dr,Salary  Payable,Payment,790.0,0.0,9161.0
+2019-01-02,Dr,Salary  Payable,Payment,791.0,0.0,21180.0
+2019-01-02,Dr,Salary  Payable,Payment,792.0,0.0,9933.0
+2019-01-02,Dr,Salary  Payable,Payment,793.0,0.0,31180.0
+2019-01-02,Dr,Salary  Payable,Payment,794.0,0.0,43151.0
+2019-01-02,Dr,Salary  Payable,Payment,795.0,0.0,6748.0
+2019-01-02,Dr,Salary  Payable,Payment,796.0,0.0,3652.0
+2019-01-02,Dr,Salary  Payable,Payment,797.0,0.0,6100.0
+2019-01-02,Dr,Salary  Payable,Payment,798.0,0.0,3652.0
+2019-01-02,Dr,Salary  Payable,Payment,799.0,0.0,26180.0
+2019-01-02,Dr,Salary  Payable,Payment,800.0,0.0,12717.0
+2019-01-03,Dr,General  Drawings,Payment,801.0,0.0,20000.0
+2019-01-03,Cr,Millennium  Info  Tech  Inc,Receipt,172.0,763829.15,0.0
+2019-01-03,Dr,Bank  Charges,Payment,802.0,0.0,777.45
+2019-01-03,Cr,RPS  Consulting  Private  Limited,Receipt,173.0,47337.0,0.0
+2019-01-04,Dr,Shankar  Radhakrishnan,Payment,803.0,0.0,135000.0
+2019-01-04,Dr,Salary  Payable,Payment,804.0,0.0,19747.0
+2019-01-04,Dr,Salary  Payable,Payment,805.0,0.0,26285.0
+2019-01-04,Dr,Salary  Payable,Payment,806.0,0.0,96475.0
+2019-01-04,Dr,Sridhar    New  Office  Rent,Payment,807.0,0.0,115500.0
+2019-01-05,Dr,General  Drawings,Payment,808.0,0.0,25000.0
+2019-01-05,Dr,General  Drawings,Payment,809.0,0.0,20000.0
+2019-01-05,Dr,General  Drawings,Payment,810.0,0.0,73220.06
+2019-01-07,Dr,Samruddhi  Facility  Management  &  Services,Payment,811.0,0.0,39896.0
+2019-01-07,Dr,Kapil  Gahlot,Payment,812.0,0.0,97186.0
+2019-01-07,Dr,TDS  on  Salary  (192),Payment,813.0,0.0,110758.0
+2019-01-07,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,814.0,0.0,81000.0
+2019-01-07,Dr,Salary  Payable,Payment,815.0,0.0,168303.0
+2019-01-08,Cr,Sapiens  Technologies  (1982)  India  Pvt  Ltd  (BLR),Receipt,174.0,21426.02,0.0
+2019-01-10,Dr,Salary  Payable,Payment,816.0,0.0,131536.0
+2019-01-11,Dr,Telephone  and  Internet  Expenses,Payment,817.0,0.0,95310.0
+2019-01-11,Dr,General  Drawings,Payment,818.0,0.0,6000.0
+2019-01-11,Dr,Mohammad  Moin,Payment,819.0,0.0,60480.0
+2019-01-11,Cr,Otaras  Inc,Receipt,175.0,1185569.22,0.0
+2019-01-11,Dr,Employee  Contribution  to  Provident  Fund,Payment,820.0,0.0,400501.0
+2019-01-11,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,176.0,31355.0,0.0
+2019-01-11,Dr,Stationary,Payment,821.0,0.0,562.0
+2019-01-12,Dr,General  Drawings,Payment,822.0,0.0,2232.0
+2019-01-15,Dr,General  Drawings,Payment,823.0,0.0,650.0
+2019-01-16,Dr,Telephone  and  Internet  Expenses,Payment,824.0,0.0,1249.62
+2019-01-16,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,177.0,43200.0,0.0
+2019-01-16,Dr,Employee  Contribution  to  ESI,Payment,825.0,0.0,47930.0
+2019-01-16,Dr,Apartment  EMI,Payment,826.0,0.0,45000.0
+2019-01-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,827.0,0.0,7816.0
+2019-01-16,Cr,Centurylink  Technologies  India  Pvt  Ltd,Receipt,178.0,205200.0,0.0
+2019-01-16,Dr,Telephone  and  Internet  Expenses,Payment,828.0,0.0,4617.0
+2019-01-17,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,179.0,194226.0,0.0
+2019-01-17,Dr,Electronic  Cash  Ledger,Payment,829.0,0.0,500000.0
+2019-01-17,Dr,Office  Expenses,Payment,830.0,0.0,25000.0
+2019-01-18,Dr,Travelling  Expenses,Payment,831.0,0.0,11800.0
+2019-01-18,Dr,Electronic  Cash  Ledger,Payment,832.0,0.0,160564.0
+2019-01-18,Dr,Salary  Payable,Payment,833.0,0.0,9123.0
+2019-01-18,Dr,Electricity  /  Water  &  Utility  Charges,Payment,834.0,0.0,11782.0
+2019-01-18,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,180.0,647128.0,0.0
+2019-01-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,835.0,0.0,3881.0
+2019-01-21,Dr,Petty  Cash  -  Expenses,Payment,836.0,0.0,20000.0
+2019-01-21,Dr,SP  Business  Corporation,Payment,837.0,0.0,92605.0
+2019-01-22,Dr,Salary  Advance,Payment,838.0,0.0,150000.0
+2019-01-22,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,181.0,540970.26,0.0
+2019-01-23,Dr,Telephone  and  Internet  Expenses,Payment,839.0,0.0,750.0
+2019-01-23,Cr,Zensar  Technologies  Ltd,Receipt,182.0,55568.16,0.0
+2019-01-23,Cr,10I  Commerce  Services  Private  Limited-ShopX,Receipt,183.0,203580.0,0.0
+2019-01-24,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,184.0,89360.47,0.0
+2019-01-25,Dr,General  Drawings,Payment,840.0,0.0,35000.0
+2019-01-25,Cr,Disys  India  Pvt.Ltd,Receipt,185.0,72000.0,0.0
+2019-01-25,Cr,ALTELIJENT,Receipt,186.0,626225.63,0.0
+2019-01-25,Dr,Bank  Charges,Payment,841.0,0.0,653.6
+2019-01-25,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,187.0,149220.0,0.0
+2019-01-25,Cr,Zensar  Technologies  Ltd,Receipt,188.0,115112.91,0.0
+2019-01-25,Cr,Other  Income,Receipt,189.0,19.07,0.0
+2019-01-28,Cr,Aprameyah  Technologies,Receipt,190.0,106200.0,0.0
+2019-01-28,Dr,General  Drawings,Payment,842.0,0.0,5639.0
+2019-01-28,Dr,Dawn  Associates,Payment,843.0,0.0,16995.0
+2019-01-28,Dr,Petty  Cash  -  Expenses,Payment,844.0,0.0,15000.0
+2019-01-29,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,191.0,167380.76,0.0
+2019-01-30,Cr,Tibil  Computer  Solutions  Pvt  Ltd,Receipt,192.0,40166.0,0.0
+2019-01-31,Cr,Disys  India  Pvt.Ltd,Receipt,193.0,67355.0,0.0
+2019-01-31,Dr,Interest  on  Overdraft,Payment,845.0,0.0,24.0
+2019-01-31,Dr,Rental  Deposit,Payment,846.0,0.0,150000.0
+2019-02-02,Dr,Petty  Cash  -  Expenses,Payment,847.0,0.0,25000.0
+2019-02-02,Dr,Salary  Payable,Payment,848.0,0.0,19322.0
+2019-02-02,Dr,Salary  Payable,Payment,849.0,0.0,2472.0
+2019-02-02,Dr,Salary  Payable,Payment,850.0,0.0,26200.0
+2019-02-02,Dr,Salary  Payable,Payment,851.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,852.0,0.0,51421.0
+2019-02-02,Dr,Salary  Payable,Payment,853.0,0.0,27200.0
+2019-02-02,Dr,Salary  Payable,Payment,854.0,0.0,21200.0
+2019-02-02,Dr,Salary  Payable,Payment,855.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,856.0,0.0,47908.0
+2019-02-02,Dr,Salary  Payable,Payment,857.0,0.0,26200.0
+2019-02-02,Dr,Salary  Payable,Payment,858.0,0.0,36200.0
+2019-02-02,Dr,Salary  Payable,Payment,859.0,0.0,29533.0
+2019-02-02,Dr,Salary  Payable,Payment,860.0,0.0,37149.0
+2019-02-02,Dr,Salary  Payable,Payment,861.0,0.0,37200.0
+2019-02-02,Dr,Salary  Payable,Payment,862.0,0.0,45026.0
+2019-02-02,Dr,Salary  Payable,Payment,863.0,0.0,27200.0
+2019-02-02,Dr,Salary  Payable,Payment,864.0,0.0,44285.0
+2019-02-02,Dr,Salary  Payable,Payment,865.0,0.0,25200.0
+2019-02-02,Dr,Salary  Payable,Payment,866.0,0.0,31200.0
+2019-02-02,Dr,Salary  Payable,Payment,867.0,0.0,14426.0
+2019-02-02,Dr,Salary  Payable,Payment,868.0,0.0,18539.0
+2019-02-02,Dr,Salary  Payable,Payment,869.0,0.0,2472.0
+2019-02-02,Dr,Salary  Payable,Payment,870.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,871.0,0.0,45054.0
+2019-02-02,Dr,Salary  Payable,Payment,872.0,0.0,25200.0
+2019-02-02,Dr,Salary  Payable,Payment,873.0,0.0,35221.0
+2019-02-02,Dr,Salary  Payable,Payment,874.0,0.0,22450.0
+2019-02-02,Dr,Salary  Payable,Payment,875.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,876.0,0.0,28122.0
+2019-02-02,Dr,Salary  Payable,Payment,877.0,0.0,46200.0
+2019-02-02,Dr,Salary  Payable,Payment,878.0,0.0,21200.0
+2019-02-02,Dr,Salary  Payable,Payment,879.0,0.0,21200.0
+2019-02-02,Dr,Salary  Payable,Payment,880.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,881.0,0.0,36200.0
+2019-02-02,Dr,Salary  Payable,Payment,882.0,0.0,18829.0
+2019-02-02,Dr,Salary  Payable,Payment,883.0,0.0,38700.0
+2019-02-02,Dr,Salary  Payable,Payment,884.0,0.0,14426.0
+2019-02-02,Dr,Salary  Payable,Payment,885.0,0.0,21200.0
+2019-02-02,Dr,Salary  Payable,Payment,886.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,887.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,888.0,0.0,20200.0
+2019-02-02,Dr,Salary  Payable,Payment,889.0,0.0,90998.0
+2019-02-02,Dr,Salary  Payable,Payment,890.0,0.0,21200.0
+2019-02-02,Dr,Salary  Payable,Payment,891.0,0.0,76083.0
+2019-02-02,Dr,Salary  Payable,Payment,892.0,0.0,15414.0
+2019-02-02,Dr,Salary  Payable,Payment,893.0,0.0,79706.0
+2019-02-02,Dr,Salary  Payable,Payment,894.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,895.0,0.0,41113.0
+2019-02-02,Dr,Salary  Payable,Payment,896.0,0.0,15940.0
+2019-02-02,Dr,Salary  Payable,Payment,897.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,898.0,0.0,92564.0
+2019-02-02,Dr,Salary  Payable,Payment,899.0,0.0,8463.0
+2019-02-02,Dr,Salary  Payable,Payment,900.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,901.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,902.0,0.0,51058.0
+2019-02-02,Dr,Salary  Payable,Payment,903.0,0.0,12299.0
+2019-02-02,Dr,Salary  Payable,Payment,904.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,905.0,0.0,12737.0
+2019-02-02,Dr,Salary  Payable,Payment,906.0,0.0,32033.0
+2019-02-02,Dr,Salary  Payable,Payment,907.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,908.0,0.0,13975.0
+2019-02-02,Dr,Salary  Payable,Payment,909.0,0.0,12299.0
+2019-02-02,Dr,Salary  Payable,Payment,910.0,0.0,56896.0
+2019-02-02,Dr,Salary  Payable,Payment,911.0,0.0,15940.0
+2019-02-02,Dr,Salary  Payable,Payment,912.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,913.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,914.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,915.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,916.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,917.0,0.0,19200.0
+2019-02-02,Dr,Salary  Payable,Payment,918.0,0.0,38700.0
+2019-02-02,Dr,Salary  Payable,Payment,919.0,0.0,7344.0
+2019-02-02,Dr,Salary  Payable,Payment,920.0,0.0,7344.0
+2019-02-02,Dr,Salary  Payable,Payment,921.0,0.0,110379.0
+2019-02-02,Dr,Salary  Payable,Payment,922.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,923.0,0.0,31200.0
+2019-02-02,Dr,Salary  Payable,Payment,924.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,925.0,0.0,20742.0
+2019-02-02,Dr,Salary  Payable,Payment,926.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,927.0,0.0,12299.0
+2019-02-02,Dr,Salary  Payable,Payment,928.0,0.0,15940.0
+2019-02-02,Dr,Salary  Payable,Payment,929.0,0.0,26200.0
+2019-02-02,Dr,Salary  Payable,Payment,930.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,931.0,0.0,24700.0
+2019-02-02,Dr,Salary  Payable,Payment,932.0,0.0,19200.0
+2019-02-02,Dr,Salary  Payable,Payment,933.0,0.0,13288.0
+2019-02-02,Dr,Salary  Payable,Payment,934.0,0.0,16923.0
+2019-02-02,Dr,Salary  Payable,Payment,935.0,0.0,116379.0
+2019-02-02,Dr,Salary  Payable,Payment,936.0,0.0,20794.0
+2019-02-02,Dr,Salary  Payable,Payment,937.0,0.0,21200.0
+2019-02-02,Dr,Salary  Payable,Payment,938.0,0.0,3059.0
+2019-02-02,Dr,Salary  Payable,Payment,939.0,0.0,19533.0
+2019-02-02,Dr,Salary  Payable,Payment,940.0,0.0,6365.0
+2019-02-02,Dr,Salary  Payable,Payment,941.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,942.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,943.0,0.0,26200.0
+2019-02-02,Dr,Salary  Payable,Payment,944.0,0.0,31200.0
+2019-02-02,Dr,Salary  Payable,Payment,945.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,946.0,0.0,51200.0
+2019-02-02,Dr,Salary  Payable,Payment,947.0,0.0,15940.0
+2019-02-02,Dr,Salary  Payable,Payment,948.0,0.0,1669.0
+2019-02-02,Dr,Salary  Payable,Payment,949.0,0.0,3059.0
+2019-02-02,Dr,Salary  Payable,Payment,950.0,0.0,1669.0
+2019-02-02,Dr,Salary  Payable,Payment,951.0,0.0,3059.0
+2019-02-02,Dr,Salary  Payable,Payment,952.0,0.0,26200.0
+2019-02-02,Dr,Salary  Payable,Payment,953.0,0.0,15940.0
+2019-02-02,Dr,Salary  Payable,Payment,954.0,0.0,8764.0
+2019-02-02,Dr,Salary  Payable,Payment,955.0,0.0,1669.0
+2019-02-02,Dr,Salary  Payable,Payment,956.0,0.0,3254.0
+2019-02-02,Dr,Salary  Payable,Payment,957.0,0.0,5207.0
+2019-02-02,Dr,Salary  Payable,Payment,958.0,0.0,7099.0
+2019-02-02,Dr,Salary  Payable,Payment,959.0,0.0,26200.0
+2019-02-02,Dr,Salary  Payable,Payment,960.0,0.0,7344.0
+2019-02-02,Dr,Salary  Payable,Payment,961.0,0.0,6955.0
+2019-02-02,Dr,Salary  Payable,Payment,962.0,0.0,43172.0
+2019-02-02,Dr,Salary  Payable,Payment,963.0,0.0,12737.0
+2019-02-02,Dr,Salary  Payable,Payment,964.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,965.0,0.0,6955.0
+2019-02-02,Dr,Salary  Payable,Payment,966.0,0.0,12737.0
+2019-02-02,Dr,Salary  Payable,Payment,967.0,0.0,7590.0
+2019-02-02,Dr,Salary  Payable,Payment,968.0,0.0,13337.0
+2019-02-02,Dr,Salary  Payable,Payment,969.0,0.0,3059.0
+2019-02-02,Dr,Salary  Payable,Payment,970.0,0.0,6955.0
+2019-02-02,Dr,Salary  Payable,Payment,971.0,0.0,6259.0
+2019-02-02,Dr,Salary  Payable,Payment,972.0,0.0,12299.0
+2019-02-02,Dr,Capital  First  Ltd,Payment,973.0,0.0,55314.0
+2019-02-02,Dr,Capital  First  Ltd,Payment,974.0,0.0,55314.0
+2019-02-02,Cr,Capital  First  Ltd,Receipt,194.0,55314.0,0.0
+2019-02-05,Dr,TDS  on  Salary  (192),Payment,975.0,0.0,172401.0
+2019-02-05,Dr,Sridhar    New  Office  Rent,Payment,976.0,0.0,115500.0
+2019-02-05,Dr,Travelling  Expenses,Payment,977.0,0.0,11800.0
+2019-02-05,Cr,Collabera  Technologies  Private  Limited,Receipt,195.0,129347.0,0.0
+2019-02-06,Dr,General  Drawings,Payment,978.0,0.0,15000.0
+2019-02-06,Dr,General  Drawings,Payment,979.0,0.0,15000.0
+2019-02-06,Dr,General  Drawings,Payment,980.0,0.0,6095.0
+2019-02-06,Dr,Travelling  Expenses,Payment,981.0,0.0,1400.0
+2019-02-07,Dr,General  Drawings,Payment,982.0,0.0,24000.0
+2019-02-07,Cr,Tecknodreams  Software  Consulting  Pvt  Ltd  -Sapphire_x000D_ 
+,Receipt,196.0,28548.0,0.0
+2019-02-08,Dr,Apartment  EMI,Payment,983.0,0.0,25000.0
+2019-02-08,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,197.0,62710.0,0.0
+2019-02-08,Dr,Travelling  Expenses,Payment,984.0,0.0,1061.0
+2019-02-08,Dr,Salary  Payable,Payment,985.0,0.0,4590.0
+2019-02-08,Dr,Salary  Payable,Payment,986.0,0.0,4313.0
+2019-02-08,Dr,Salary  Payable,Payment,987.0,0.0,103400.0
+2019-02-08,Dr,Shankar  Radhakrishnan,Payment,988.0,0.0,135000.0
+2019-02-08,Dr,Kapil  Gahlot,Payment,989.0,0.0,97186.0
+2019-02-11,Cr,The  Math  Company  Pvt  Ltd,Receipt,198.0,299700.0,0.0
+2019-02-11,Dr,General  Drawings,Payment,990.0,0.0,8000.0
+2019-02-11,Dr,Salary  Payable,Payment,991.0,0.0,6500.0
+2019-02-11,Dr,Telephone  and  Internet  Expenses,Payment,992.0,0.0,45000.0
+2019-02-11,Cr,Other  Income,Receipt,199.0,10.5,0.0
+2019-02-11,Dr,General  Drawings,Payment,993.0,0.0,38188.0
+2019-02-11,Cr,Millennium  Info  Tech  Inc,Receipt,200.0,1178804.0,0.0
+2019-02-11,Dr,Bank  Charges,Payment,994.0,0.0,1022.18
+2019-02-12,Dr,Salary  Payable,Payment,995.0,0.0,53225.0
+2019-02-12,Dr,Salary  Payable,Payment,996.0,0.0,167823.0
+2019-02-12,Dr,Salary  Payable,Payment,997.0,0.0,141118.0
+2019-02-12,Dr,Salary  Payable,Payment,998.0,0.0,6500.0
+2019-02-13,Dr,General  Drawings,Payment,999.0,0.0,50000.0
+2019-02-13,Dr,General  Drawings,Payment,1000.0,0.0,10000.0
+2019-02-14,Cr,Data  Semantics  Private  Limited,Receipt,201.0,150000.0,0.0
+2019-02-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,1001.0,0.0,406837.0
+2019-02-15,Dr,General  Drawings,Payment,1002.0,0.0,30000.0
+2019-02-15,Dr,SP  Business  Corporation,Payment,1003.0,0.0,97490.0
+2019-02-15,Dr,Employee  Contribution  to  ESI,Payment,1004.0,0.0,56297.0
+2019-02-15,Dr,Electricity  /  Water  &  Utility  Charges,Payment,1005.0,0.0,7942.0
+2019-02-15,Dr,Staff  Welfare,Payment,1006.0,0.0,3819.0
+2019-02-15,Dr,General  Drawings,Payment,1007.0,0.0,2914.8
+2019-02-15,Dr,General  Drawings,Payment,1008.0,0.0,25000.0
+2019-02-15,Dr,General  Drawings,Payment,1009.0,0.0,650.0
+2019-02-16,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,202.0,144405.0,0.0
+2019-02-16,Dr,Rental  Deposit,Payment,1010.0,0.0,500000.0
+2019-02-17,Dr,Telephone  and  Internet  Expenses,Payment,1011.0,0.0,1349.65
+2019-02-17,Dr,Telephone  and  Internet  Expenses,Payment,1012.0,0.0,1300.0
+2019-02-19,Dr,General  Drawings,Payment,1013.0,0.0,25000.0
+2019-02-19,Dr,Travelling  Expenses,Payment,1014.0,0.0,26145.0
+2019-02-19,Cr,Aprameyah  Technologies,Receipt,203.0,54000.0,0.0
+2019-02-19,Cr,Other  Income,Receipt,204.0,21.86,0.0
+2019-02-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,1015.0,0.0,4278.0
+2019-02-20,Dr,Electronic  Cash  Ledger,Payment,1016.0,0.0,397705.0
+2019-02-21,Cr,SOURCEEDGE  SOFTWARE  TECHNOLOGIES  PVT.  LTD.,Receipt,205.0,111629.0,0.0
+2019-02-22,Dr,Telephone  and  Internet  Expenses,Payment,1017.0,0.0,600.0
+2019-02-22,Cr,COOKIE  ANALYTIX  PRIVATE  LIMITED,Receipt,206.0,223020.0,0.0
+2019-02-22,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  ICreate)_x000D_ 
+,Receipt,207.0,1321448.0,0.0
+2019-02-23,Dr,General  Drawings,Payment,1018.0,0.0,14500.0
+2019-02-25,Dr,Office  Rent,Payment,1019.0,0.0,81000.0
+2019-02-25,Dr,Samruddhi  Facility  Management  &  Services,Payment,1020.0,0.0,39896.0
+2019-02-25,Dr,Petty  Cash  -  Expenses,Payment,1021.0,0.0,20000.0
+2019-02-26,Cr,General  Drawings,Receipt,208.0,50000.0,0.0
+2019-02-26,Dr,Nagaraj  Blinds,Payment,1022.0,0.0,10000.0
+2019-02-26,Dr,Travelling  Expenses,Payment,1023.0,0.0,12000.0
+2019-02-26,Dr,Monster.Com  India  Pvt  Ltd,Payment,1024.0,0.0,31050.0
+2019-02-26,Dr,Travelling  Expenses,Payment,1025.0,0.0,12000.0
+2019-02-26,Cr,Otaras  Inc,Receipt,209.0,1218392.48,0.0
+2019-02-26,Cr,ALTELIJENT,Receipt,210.0,710870.48,0.0
+2019-02-26,Dr,Bank  Charges,Payment,1026.0,0.0,729.78
+2019-02-27,Cr,Aprameyah  Technologies,Receipt,211.0,71280.0,0.0
+2019-02-27,Cr,Zensar  Technologies  Ltd,Receipt,212.0,117000.0,0.0
+2019-02-27,Dr,General  Drawings,Payment,1027.0,0.0,45000.0
+2019-02-27,Cr,10I  Commerce  Services  Private  Limited-ShopX,Receipt,213.0,209807.0,0.0
+2019-02-27,Dr,General  Drawings,Payment,1028.0,0.0,10000.0
+2019-02-28,Dr,Bank  Charges,Payment,1029.0,0.0,5371.0
+2019-02-28,Dr,Travelling  Expenses,Payment,1030.0,0.0,9500.0
+2019-02-28,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,214.0,64800.0,0.0
+2019-02-28,Cr,IMS  Health  Analytics  Services  Private  Limited,Receipt,215.0,2296051.5,0.0
+2019-03-01,Dr,Salary  Payable,Payment,1031.0,0.0,3043817.0
+2019-03-02,Dr,General  Drawings,Payment,1032.0,0.0,25000.0
+2019-03-02,Dr,Capital  First  Ltd,Payment,1033.0,0.0,55314.0
+2019-03-02,Dr,Salary  Payable,Payment,1034.0,0.0,167823.0
+2019-03-02,Dr,Salary  Payable,Payment,1035.0,0.0,36200.0
+2019-03-02,Dr,Shankar  Radhakrishnan,Payment,1036.0,0.0,135000.0
+2019-03-02,Dr,Salary  Payable,Payment,1037.0,0.0,141117.0
+2019-03-02,Dr,Salary  Payable,Payment,1038.0,0.0,105000.0
+2019-03-02,Dr,General  Drawings,Payment,1039.0,0.0,1324.0
+2019-03-02,Dr,Travelling  Expenses,Payment,1040.0,0.0,2900.0
+2019-03-03,Dr,General  Drawings,Payment,1041.0,0.0,12000.0
+2019-03-03,Dr,Apartment  EMI,Payment,1042.0,0.0,25000.0
+2019-03-05,Dr,Mohammad  Moin,Payment,1043.0,0.0,44604.0
+2019-03-05,Dr,Salary  Payable,Payment,1044.0,0.0,12737.0
+2019-03-05,Dr,Sridhar    New  Office  Rent,Payment,1045.0,0.0,115500.0
+2019-03-05,Cr,Bank  Charges,Receipt,216.0,21.75,0.0
+2019-03-06,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,217.0,291600.0,0.0
+2019-03-06,Dr,Salary  Payable,Payment,1046.0,0.0,14470.0
+2019-03-06,Dr,General  Drawings,Payment,1047.0,0.0,40000.0
+2019-03-06,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,218.0,9405.8,0.0
+2019-03-06,Cr,NDVOR  IT  SOLUTIONS  PRIVATE  LIMITED,Receipt,219.0,85108.58,0.0
+2019-03-07,Dr,TDS  on  Salary  (192),Payment,1048.0,0.0,163525.0
+2019-03-07,Dr,Mohammad  Moin,Payment,1049.0,0.0,756.0
+2019-03-08,Cr,Convergytics  Solution  Pvt  Ltd,Receipt,220.0,54000.0,0.0
+2019-03-08,Dr,Repairs  and  Maintenance,Payment,1050.0,0.0,89220.0
+2019-03-08,Dr,General  Drawings,Payment,1051.0,0.0,6000.0
+2019-03-10,Dr,General  Drawings,Payment,1052.0,0.0,785.0
+2019-03-11,Dr,General  Drawings,Payment,1053.0,0.0,45000.0
+2019-03-11,Dr,Petty  Cash  -  Expenses,Payment,1054.0,0.0,30000.0
+2019-03-11,Dr,General  Drawings,Payment,1055.0,0.0,38188.0
+2019-03-11,Dr,General  Drawings,Payment,1056.0,0.0,21750.0
+2019-03-11,Dr,Telephone  and  Internet  Expenses,Payment,1057.0,0.0,1200.0
+2019-03-12,Dr,H  M  Nagesh,Payment,1058.0,0.0,35100.0
+2019-03-12,Cr,M/s.  Think  N  Solutions  Pvt  Ltd.,Receipt,221.0,125768.0,0.0
+2019-03-13,Dr,SP  Business  Corporation,Payment,1059.0,0.0,184663.0
+2019-03-13,Dr,General  Drawings,Payment,1060.0,0.0,246296.0
+2019-03-13,Dr,Electricity  /  Water  &  Utility  Charges,Payment,1061.0,0.0,5768.0
+2019-03-14,Dr,Travelling  Expenses,Payment,1062.0,0.0,2891.5
+2019-03-14,Dr,Electricity  /  Water  &  Utility  Charges,Payment,1063.0,0.0,27837.0
+2019-03-14,Dr,M/S  C.  S  Interiors  &  Decorators,Payment,1064.0,0.0,30000.0
+2019-03-14,Dr,Salary  Payable,Payment,1065.0,0.0,7731.0
+2019-03-14,Dr,General  Drawings,Payment,1066.0,0.0,8000.0
+2019-03-14,Dr,Employee  Contribution  to  Provident  Fund,Payment,1067.0,0.0,452093.0
+2019-03-15,Dr,General  Drawings,Payment,1068.0,0.0,650.0
+2019-03-16,Dr,Telephone  and  Internet  Expenses,Payment,1069.0,0.0,1349.63
+2019-03-16,Dr,Employee  Contribution  to  ESI,Payment,1070.0,0.0,68248.0
+2019-03-16,Dr,Apartment  EMI,Payment,1071.0,0.0,25000.0
+2019-03-16,Dr,Labour  Welfare  Fund,Payment,1072.0,0.0,7140.0
+2019-03-16,Dr,Electricity  /  Water  &  Utility  Charges,Payment,1073.0,0.0,7527.0
+2019-03-18,Dr,General  Drawings,Payment,1074.0,0.0,40000.0
+2019-03-18,Dr,VIJAYALAKSHMI  H  M  -  Rent  A/c,Payment,1075.0,0.0,81000.0
+2019-03-18,Dr,Samruddhi  Facility  Management  &  Services,Payment,1076.0,0.0,39896.0
+2019-03-18,Dr,General  Drawings,Payment,1077.0,0.0,4500.0
+2019-03-18,Dr,Electronic  Cash  Ledger,Payment,1078.0,0.0,500000.0
+2019-03-18,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,222.0,49680.0,0.0
+2019-03-19,Dr,Telephone  and  Internet  Expenses,Payment,1079.0,0.0,600.0
+2019-03-20,Dr,Electricity  /  Water  &  Utility  Charges,Payment,1080.0,0.0,4211.0
+2019-03-20,Dr,Electronic  Cash  Ledger,Payment,1081.0,0.0,117026.0
+2019-03-21,Cr,Harman  Connected  Services  Corp  India  Private  Ltd,Receipt,223.0,99360.0,0.0
+2019-03-21,Dr,Travelling  Expenses,Payment,1082.0,0.0,9182.0
+2019-03-22,Dr,Travelling  Expenses,Payment,1083.0,0.0,2830.52
+2019-03-22,Dr,Travelling  Expenses,Payment,1084.0,0.0,22902.0
+2019-03-22,Cr,MetricStream  Infotech  (India)  Pvt  Ltd.,Receipt,224.0,143534.0,0.0
+2019-03-22,Cr,Disys  India  Pvt.Ltd,Receipt,225.0,72000.0,0.0
+2019-03-24,Dr,General  Drawings,Payment,1085.0,0.0,12000.0
+2019-03-25,Cr,The  Math  Company  Pvt  Ltd,Receipt,226.0,91800.0,0.0
+2019-03-25,Cr,Fintellix  Solutions  Pvt.  Ltd  (Formerly  Icreate)_x000D_ 
+,Receipt,227.0,719870.0,0.0
+2019-03-25,Dr,Travelling  Expenses,Payment,1086.0,0.0,4584.0
+2019-03-26,Cr,Aprameyah  Technologies,Receipt,228.0,81000.0,0.0
+2019-03-26,Dr,Travelling  Expenses,Payment,1087.0,0.0,18893.0
+2019-03-26,Dr,General  Drawings,Payment,1088.0,0.0,8000.0
+2019-03-28,Cr,Millennium  Info  Tech  Inc,Receipt,229.0,855853.68,0.0
+2019-03-28,Dr,Bank  Charges,Payment,1089.0,0.0,860.27
+2019-03-29,Cr,IMS  Health  Analytics  Services  Private  Limited,Receipt,230.0,324595.06,0.0
+2019-03-29,Cr,INTSOL  CONSULTANTS  PRIVATE  LIMITED,Receipt,231.0,43200.0,0.0
+2019-03-29,Dr,Travelling  Expenses,Payment,1090.0,0.0,6090.0
+2019-03-30,Dr,General  Drawings,Payment,1091.0,0.0,10000.0
+2019-03-30,Cr,Zensar  Technologies  Ltd,Receipt,232.0,102375.0,0.0
+2019-03-30,Cr,M/s.Analytics  Quotient  Services  India  Pvt  Ltd.,Receipt,233.0,295572.05,0.0
+2019-03-31,Dr,Interest  on  Overdraft,Payment,1093.0,0.0,1475.0

@@ -1,0 +1,923 @@
+{
+	"info": {
+		"_postman_id": "88e5b93a-6ca3-48ab-b29c-d6db1860c9f6",
+		"name": "App_new_annlytic_server",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "user",
+			"item": [
+				{
+					"name": "http://54.188.159.160:5020/resiter",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{ \n\t\"username\" : \"user1\", \n\t\"password\":\"abcxyz\",\n\t\"email\":\"user1@aroha.com\"\n}"
+						},
+						"url": {
+							"raw": "http://54.188.159.160:5020/register",
+							"protocol": "http",
+							"host": [
+								"54",
+								"188",
+								"159",
+								"160"
+							],
+							"port": "5020",
+							"path": [
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "http://54.188.159.160:5020/auth",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "89014716-7c98-45f7-ac9e-6f8b8d5de487",
+								"exec": [
+									"var jsonData = pm.response.json();",
+									"",
+									"",
+									"",
+									"",
+									"// tests['test'] = jsonData.access_token !== undefined;",
+									"",
+									"",
+									"",
+									"// pm.environment.set(\"jwt_token\",jsonData.access_token);",
+									"pm.test(\"Your test name\", function () {",
+									"    var jsonData = pm.response.json();",
+									"    ",
+									"    console.log(jsonData);",
+									"    tests['test'] = jsonData.access_token !== undefined;",
+									"    ",
+									"    pm.environment.set(\"jwt_token\", jsonData.access_token);",
+									"    ",
+									"    // pm.expect(jsonData.value).to.eql(100);",
+									"    ",
+									"});",
+									"",
+									"pm.test();",
+									"pm.variables.get(\"variable_key\");",
+									"pm.globals.get(\"variable_key\");",
+									"pm.globals.set(\"variable_key\", \"variable_value\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");",
+									"pm.variables.get(\"variable_key\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");",
+									"pm.variables.get(\"variable_key\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{ \n\t\"email\" : \"user1@aroha.com\", \n\t\"password\":\"abcxyz\"\n}"
+						},
+						"url": {
+							"raw": "{{url}}/auth",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"auth"
+							]
+						}
+					},
+					"response": [
+						{
+							"name": "http://54.188.159.160:5020/auth",
+							"originalRequest": {
+								"method": "POST",
+								"header": [
+									{
+										"key": "Content-Type",
+										"name": "Content-Type",
+										"value": "application/json",
+										"type": "text"
+									}
+								],
+								"body": {
+									"mode": "raw",
+									"raw": "{ \n\t\"email\" : \"user1@aroha.com\", \n\t\"password\":\"abcxyz\"\n}"
+								},
+								"url": {
+									"raw": "http://54.188.159.160:5020/auth",
+									"protocol": "http",
+									"host": [
+										"54",
+										"188",
+										"159",
+										"160"
+									],
+									"port": "5020",
+									"path": [
+										"auth"
+									]
+								}
+							},
+							"status": "OK",
+							"code": 200,
+							"_postman_previewlanguage": "json",
+							"header": [
+								{
+									"key": "Content-Type",
+									"value": "application/json"
+								},
+								{
+									"key": "Content-Length",
+									"value": "316"
+								},
+								{
+									"key": "Access-Control-Allow-Origin",
+									"value": "*"
+								},
+								{
+									"key": "Server",
+									"value": "Werkzeug/0.15.4 Python/3.7.3"
+								},
+								{
+									"key": "Date",
+									"value": "Wed, 28 Aug 2019 07:17:02 GMT"
+								}
+							],
+							"cookie": [],
+							"body": "{\n    \"access_token\": \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjY5NzY2MjIsIm5iZiI6MTU2Njk3NjYyMiwianRpIjoiOGRmMTA5NzgtMjVhOC00OTczLTk2ZmEtY2M3YzI5MDMzZjAzIiwiZXhwIjoxNTY2OTc2OTIyLCJpZGVudGl0eSI6InVzZXIxQGFyb2hhLmNvbSIsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.XwePFzBk_ZGa9q52aR39i41K3S2p5iTRO_GNfY36siM\"\n}"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "data_load",
+			"item": [
+				{
+					"name": "import_items",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "Authorization",
+								"value": "jwt eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjY5NjUyNTAsIm5iZiI6MTU2Njk2NTI1MCwianRpIjoiY2E4MWY2NGQtYjZlMS00NTg0LWE4ODAtMDAwMDZhNzU0OGZiIiwiZXhwIjoxNTY2OTY1NTUwLCJpZGVudGl0eSI6InVzZXIxQGFyb2hhLmNvbSIsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.cWXTt3cd4fUvQrjh6eZzfFGb79sqQSLvQYoW94st_n0",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://54.188.159.160:5020/import_items",
+							"protocol": "http",
+							"host": [
+								"54",
+								"188",
+								"159",
+								"160"
+							],
+							"port": "5020",
+							"path": [
+								"import_items"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "import_sales",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							},
+							{
+								"key": "Authorization",
+								"value": "jwt eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjY5NjUyNTAsIm5iZiI6MTU2Njk2NTI1MCwianRpIjoiY2E4MWY2NGQtYjZlMS00NTg0LWE4ODAtMDAwMDZhNzU0OGZiIiwiZXhwIjoxNTY2OTY1NTUwLCJpZGVudGl0eSI6InVzZXIxQGFyb2hhLmNvbSIsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.cWXTt3cd4fUvQrjh6eZzfFGb79sqQSLvQYoW94st_n0",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "http://54.188.159.160:5020/import_sales",
+							"protocol": "http",
+							"host": [
+								"54",
+								"188",
+								"159",
+								"160"
+							],
+							"port": "5020",
+							"path": [
+								"import_sales"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "market_basket",
+			"item": [
+				{
+					"name": "GET top20_items",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/MarketBasket/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"MarketBasket",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "POST  items parchased along",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"item\": \"3\"}"
+						},
+						"url": {
+							"raw": "{{url}}/retail/MarketBasket/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"MarketBasket",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "360",
+			"item": [
+				{
+					"name": "monly_sales_yearwise",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetMonthlySalesYearwiseData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetMonthlySalesYearwiseData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GET top10_items-sales",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "bf865b55-04d3-4a76-8349-46f52484a9a1",
+								"exec": [
+									""
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt {{jwt_token}}"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/Top10ItemsBasedOnSales/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"Top10ItemsBasedOnSales",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Kpi basket detials",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt  {{jwt_token}}"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/getBasketKpiDetails/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"getBasketKpiDetails",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Kpi totals items",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt {{jwt_token}}"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/getTotalItems/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"getTotalItems",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Weekly sales profit qty",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt {{jwt_token}}"
+							}
+						],
+						"url": {
+							"raw": "http://54.188.159.160:5020/retail/getWeeklySalesProfit/1",
+							"protocol": "http",
+							"host": [
+								"54",
+								"188",
+								"159",
+								"160"
+							],
+							"port": "5020",
+							"path": [
+								"retail",
+								"getWeeklySalesProfit",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Timeseries with wk sales. profit",
+			"item": [
+				{
+					"name": "GET weekly montly quaterly-year",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjYyNzk0ODgsIm5iZiI6MTU2NjI3OTQ4OCwianRpIjoiMWJhZjQ3NzgtNzM2NC00ZWM3LTk0MTktYjE5YjRlY2RkNjNiIiwiZXhwIjoxNTY2Mjc5Nzg4LCJpZGVudGl0eSI6ImFiY0Bhcm9oYS5jb20iLCJmcmVzaCI6ZmFsc2UsInR5cGUiOiJhY2Nlc3MifQ.cw5w2gldiIW-qGTbxz7-z_DSbqlCBgRlEKgPzIQciiE"
+							}
+						],
+						"url": {
+							"raw": "http://54.188.159.160:5020/retail/getQuterlyMonthlyWeeklySalesCurrPrevYear/1",
+							"protocol": "http",
+							"host": [
+								"54",
+								"188",
+								"159",
+								"160"
+							],
+							"port": "5020",
+							"path": [
+								"retail",
+								"getQuterlyMonthlyWeeklySalesCurrPrevYear",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "sales_visual",
+			"item": [
+				{
+					"name": "GET top20_items-sales",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"id": "037ae1d3-0915-476c-b53f-191d17eaf7e4",
+								"exec": [
+									"var jsonData = pm.response.json();",
+									"",
+									"",
+									"",
+									"",
+									"// tests['test'] = jsonData.access_token !== undefined;",
+									"",
+									"",
+									"",
+									"// pm.environment.set(\"jwt_token\",jsonData.access_token);",
+									"pm.test(\"Your test name\", function () {",
+									"    var jsonData = pm.response.json();",
+									"    ",
+									"    console.log(jsonData);",
+									"    tests['test'] = jsonData.access_token !== undefined;",
+									"    ",
+									"    pm.environment.set(\"jwt_token\", jsonData.access_token);",
+									"    ",
+									"    // pm.expect(jsonData.value).to.eql(100);",
+									"    ",
+									"});",
+									"",
+									"pm.test();",
+									"pm.environment.set(\"variable_key\", \"variable_value\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");",
+									"pm.environment.set(\"variable_key\", \"variable_value\");"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt {{jwt_token}}"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/Top20ItemsBasedOnSales/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"Top20ItemsBasedOnSales",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "monly_sales_yearwise",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetMonthlySalesYearwiseData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetMonthlySalesYearwiseData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "monly_sales",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetMonthlySalesData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetMonthlySalesData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Top10_items_profit",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/Top10ItemsBasedOnProfit/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"Top10ItemsBasedOnProfit",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "sales_forcast",
+			"item": [
+				{
+					"name": "next 7 days forcast",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt  {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetNextSevedaysPredData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetNextSevedaysPredData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "curr and next month",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt  {{jwt_token}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetCurrentNextMonthPredData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetCurrentNextMonthPredData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Hist and pred data",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt  {{jwt_token}}"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetHistAndPredData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetHistAndPredData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "item_analysis",
+			"item": [
+				{
+					"name": "get_itemwise_kpi",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"name": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"item\":\"1\"}"
+						},
+						"url": {
+							"raw": "{{url}}/retail/getItemwiseKpi/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"getItemwiseKpi",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getMontlySalesOfItem",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							},
+							{
+								"key": "Content-Type",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"item\": \"1\"}"
+						},
+						"url": {
+							"raw": "{{url}}/retail/getMontlySalesOfItem/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"getMontlySalesOfItem",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getMontlyProfitOfItem",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Authorization",
+								"type": "text",
+								"value": "jwt {{jwt_token}}"
+							},
+							{
+								"key": "Content-Type",
+								"type": "text",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\"item\": \"1\"}"
+						},
+						"url": {
+							"raw": "{{url}}/retail/getMontlyProfitOfItem/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"getMontlyProfitOfItem",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "abc",
+			"item": [
+				{
+					"name": "getabctable",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": ""
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getSalesAbcCat for pie",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetSalesAbcCatData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetSalesAbcCatData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "getAbcSalesProfitSummary",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "jwt {{jwt_token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{url}}/retail/GetSalesAbcCatData/1",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"retail",
+								"GetSalesAbcCatData",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

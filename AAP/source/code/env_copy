@@ -1,0 +1,18 @@
+
+FLASK_ENV = development
+#FLASK_ENV = uat
+APP_IP = 0.0.0.0
+APP_PORT = 5020
+MYSQL_USER = my360
+MYSQL_PASSWORD = ArohaMy360!2019
+MYSQL_URL = arohamysqlrds.cvc8b2isrkrv.us-west-2.rds.amazonaws.com
+MYSQL_PORT = 3306
+MYSQL_DEV_DB = dev_my360
+MYSQL_UAT_DB = uat_my360
+
+MONGO_URL = 34.215.30.65
+MONGO_PORT = 27017
+MONGO_USER = inteligenceengineuser
+MONGO_PASSWORD = xyz123f6fsuag7w2nkajsdh8iyedashd82i7hasjasd7879u2sjdh8xna8shd82ywhda
+MONGO_DEV_DB = dev_my360
+MONGO_UAT_DB = uat_my360
