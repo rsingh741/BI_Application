@@ -1,4 +1,4 @@
-# aroha_analytical_platform
+# BI_Application
 python backend 
 
 
@@ -13,7 +13,7 @@ python 3.7
 requirements_DS.txt
 ## Creating a Python Virtual Environment
 * sudo apt install python3-venv
-* cd ../aroha_analyticcal_platform/AAP/
+* cd ../analyticcal_platform/AAP/
 * python3.7 -m venv myprojectenv
 * source venv/bin/activate
 * pip install -r Requirement-API-services.txt
