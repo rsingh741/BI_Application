@@ -4,7 +4,7 @@ load_dotenv()
 
 class Config(object):
     DEBUG = True   
-    SECRET_KEY = "B\xb2?.\xdf\x9f\xa7m\xf8\x8a%,\xf7\xc4\xfa\x91"    
+    SECRET_KEY = "**********************************"    
     
     MYSQL_USER     = os.getenv('MYSQL_USER')
     MYSQL_PASSWORD = os.getenv('MYSQL_PASSWORD')
@@ -19,7 +19,7 @@ class Config(object):
     }
     SQLALCHEMY_POOL_SIZE = 100
     JWT_REQUIRED_CLAIMS = ['exp', 'iat']
-    JWT_SECRET_KEY = '456xyxys9sfasr-mjnoizsdfbseroi3fdsakjcafafa'
+    JWT_SECRET_KEY = '***********************************'
     JWT_HEADER_TYPE = 'jwt'    
     PROPAGATE_EXCEPTIONS = True
     
